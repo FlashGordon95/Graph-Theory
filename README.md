@@ -16,3 +16,18 @@ GitHub must be used to manage the development of the software. Your GitHub repos
 ### Graph Theory Project 2017
 Any submission that does not have a full and incremental git history with informative commit messages over the course of the project work will be accorded a proportionate mark. It is expected that your repository will have at least tens of commits, with each commit relating to a reasonably small unit of work. In the last week of term, or at any other time, you may be asked by the lecturer to explain the contents of your git repository. While it is encouraged that students will engage in peer learning, all software that is contained in your submission must have been written by you yourself. You can show this by having a long incremental commit history and by being able to explain your code.
 
+## Project Information 
+### Accuiring Data  
+Acquiring some for the data for the database such as the rooms in GMIT can be quite a long task if manually typed. I aim to build a webscrape in python that will scrape the page and gather the rooms.
+
+#### Nodes and databse structure
+The database will have a structure. similar to the following:
+
+| Name     | Type |  Labels (If applicable) | Properties (if applicable) |
+|----------		|------|-------------------------|----------------------------|
+| Room     		| Node |                         |                            |
+| Lecturer 		| Node |                         |                            |
+| Module   		| Node |                         |                            |
+| Group/Class   	| Node |                         |                            |
+| Course   		| Node |                         |                            |
+| Time   			| Node |                         |                            |
