@@ -1,0 +1,990 @@
+bplist00“_WebMainResource_WebSubresources’	
+^WebResourceURL_WebResourceFrameName_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingName_Khttp://timetable.gmit.ie/sws1617/(S(pliyptuqoml4cybvy5mapyb0))/default.aspxPO’G<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script language="JavaScript" type="text/JavaScript" src="update.js"></script>
+<title>
+	Scientia Web Timetables - 2.0.38
+</title><link href="styles.css" rel="stylesheet" type="text/css"><script type="text/javascript">
+
+
+</script><style></style></head>
+
+<body onload="loaddefaultpage();">
+
+    	<table class="pagetable" width="995px" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" border="0" valign="center">
+
+		<tbody><tr>
+			<td height="151px">
+				<img src="img/header.jpg" style="padding:20px;">
+			</td>
+
+		</tr>
+
+		<tr>
+			<td bgcolor="#1f69b1" height="28px">
+				<div style="color:#fff; padding-left:20px; font-weight:bold;">GMIT Web Timetables Site 16/17</div>
+			</td>
+
+		</tr>
+
+		<tr>
+			<td class="content">
+<form name="form1" method="post" action="default.aspx" id="form1">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMDMyMzk1NDUPZBYCAgQPZBYGAgMPDxYEHglEaXJlY3Rpb24LKipTeXN0ZW0uV2ViLlVJLldlYkNvbnRyb2xzLkNvbnRlbnREaXJlY3Rpb24BHgRfIVNCAoCACGRkAgUPZBYiAgEPZBYCAgEPDxYCHgRUZXh0BRkxNi8xNyBMb2NhdGlvbiBUaW1ldGFibGVzZGQCAw8PFgYeCENzc0NsYXNzZR8BAgIeB1Zpc2libGVoZBYCAgEPDxYGHwMFB0luZm9Cb3gfAgWIBQ0KDQo8L2JyPg0KPGRpdiBzdHlsZT0iY29sb3I6cmVkOyBmb250LXdlaWdodDpib2xkO2ZvbnQtc2l6ZTpzbWFsbDsiPkl0IGlzIGltcG9ydGFudCB5b3UgY2hlY2sgdGhlc2UgcGFnZXMgcmVndWxhcmx5LCBhcyB0aW1ldGFibGVzIGFyZSBzdWJqZWN0IHRvIGNoYW5nZS48L2Rpdj4NCjwvYnI+DQo8ZGl2PlBsZWFzZSBzZWxlY3QgYSB0aW1ldGFibGUgcmVwb3J0IGZyb20gdGhlIGxlZnQgaGFuZCBzaWRlPC9kaXY+DQo8L2JyPjwvYnI+DQo8ZGl2Pg0KVXNlZnVsIExpbmtzOg0KPHVsPg0KPGxpPjxhIGhyZWY9Imh0dHA6Ly90aW1ldGFibGUuZ21pdC5pZSI+VGltZXRhYmxlIEhvbWUgUGFnZTwvYT48L2xpPg0KPGxpPjxhIGhyZWY9Imh0dHA6Ly93d3cuZ21pdC5pZSI+R01JVCBIb21lIFBhZ2U8L2E+PC9saT4NCjwvdWw+DQo8L2Rpdj4NCjxkaXYgc3R5bGU9ImNvbG9yOnJlZDsgZm9udC13ZWlnaHQ6Ym9sZDsiPkluIG9yZGVyIHRvIHZpZXcgc3RhZmYgdGltZXRhYmxlcyB5b3Ugd2lsbCBuZWVkIHlvdXIgdW5pcXVlIHN0YWZmIHRpbWV0YWJsZSBJRC4NCjwvYnI+DQpJZiB5b3UgZG8gbm90IGhhdmUgdGhpcywgcGxlYXNlIGNvbnRhY3QgeW91ciBoZWFkIG9mIGRlcGFydG1lbnQgb3IgdGhlIFRpbWV0YWJsZSBPZmZpY2UuPC9kaXY+DQoNCh8BAgJkZAIFDw8WAh8EaGQWAgIDDxBkZBYAZAIHDw8WBh8EaB8DZR8BAgJkFgQCAQ8PFgYfAwUPRGVwYXJ0bWVudExhYmVsHwIFElNlbGVjdCBEZXBhcnRtZW50Oh8BAgJkZAIDDxAPFgQfAwUQRGVwYXJ0bWVudEZpbHRlch8BAgJkEBUOEChBbnkgRGVwYXJ0bWVudCk2R2Fsd2F5IENhbXB1cyAtIENlbnRyZSBmb3IgdGhlIENyZWF0aXZlIEFydHMgYW5kIE1lZGlhNkdhbHdheSBDYW1wdXMgLSBEZXB0IG9mIEJ1aWxkaW5nIGFuZCBDaXZpbCBFbmdpbmVlcmluZzpHYWx3YXkgQ2FtcHVzIC0gRGVwdCBvZiBDb21wdXRlciBTY2llbmNlICYgQXBwbGllZCBQaHlzaWNzJUdhbHdheSBDYW1wdXMgLSBEZXB0IG9mIEN1bGluYXJ5IEFydHM9R2Fsd2F5IENhbXB1cyAtIERlcHQgb2YgRWxlY3Ryb25pYyBhbmQgRWxlY3RyaWNhbCBFbmdpbmVlcmluZyxHYWx3YXkgQ2FtcHVzIC0gRGVwdCBvZiBIZXJpdGFnZSBhbmQgVG91cmlzbTJHYWx3YXkgQ2FtcHVzIC0gRGVwdCBvZiBMaWZlIGFuZCBQaHlzaWNhbCBTY2llbmNlcz1HYWx3YXkgQ2FtcHVzIC0gRGVwdCBvZiBNZWNoYW5pY2FsIGFuZCBJbmR1c3RyaWFsIEVuZ2luZWVyaW5nKkdhbHdheSBDYW1wdXMgLSBEZXB0IG9mIFNlcnZpY2UgSW5kdXN0cmllc1NHYWx3YXkgQ2FtcHVzIC0gU2Nob29sIG9mIEJ1c2luZXNzIC0gRGVwYXJ0bWVudCBvZiBBY2NvdW50aW5nICYgSW5mb3JtYXRpb24gU3lzdGVtcz1HYWx3YXkgQ2FtcHVzIC0gU2Nob29sIG9mIEJ1c2luZXNzIC0gRGVwYXJ0bWVudCBvZiBNYW5hZ2VtZW50VkxldHRlcmZyYWNrIENhbXB1cyAtIE5hdGlvbmFsIENlbnRyZSBmb3IgRXhjZWxsZW5jZSBpbiBGdXJuaXR1cmUgRGVzaWduIGFuZCBUZWNobm9sb2d5C01heW8gQ2FtcHVzFQ4AIDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUVEIDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUU5IDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUU0IDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUU1IDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUVBIDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUU2IDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUYwIDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUU4IDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MURFIDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUVGIEZGMkI2NTc4RDlEM0UwNjBBRDQyNkY0RTYxQTY5N0U4IDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUVCIDlGNkM5Mjc4OTQ3MkNGOTUwQUQxMjhFNEIzOTY2MUYzFCsDDmdnZ2dnZ2dnZ2dnZ2dnFgFmZAIJDw8WBh8EZx8DZR8BAgJkFgYCAQ8PFgYfAwUPRGVwYXJ0bWVudExhYmVsHwIFI0xvY2F0aW9uIFNlYXJjaCBTdHJpbmcgKG9wdGlvbmFsKTogHwECAmRkAgMPDxYMHwMFD1dpbGRjYXJkVGV4dEJveB4HVG9vbFRpcGUfAmUeDEF1dG9Qb3N0QmFja2geCU1heExlbmd0aGYfAQICZGQCBQ8PFgYfAgUGU2VhcmNoHwMFDldpbGRjYXJkQnV0dG9uHwECAmRkAgsPDxYCHwRnZBYEAgEPDxYCHwIFDlNlbGVjdCBSb29tKHMpZGQCAw8QDxYGHg1TZWxlY3Rpb25Nb2RlCyorU3lzdGVtLldlYi5VSS5XZWJDb250cm9scy5MaXN0U2VsZWN0aW9uTW9kZQEfBmgeBFJvd3MCCmQQFb4CFENDQU0xMDQgV2hpdGVSbSAoNjApEENDQU0xMDcgMTA3ICg2MCkSQ0NBTTExNSBGQVNSbSAoMzApFkNDQU0xMTYgUHJpbnQgMTE3ICg2MCkSQ0NBTTExNyBQcmludCAoNjApFENDQU0xMjAgUHJpbnRXUyAoMjApFENDQU0xMjEgUHJpbnRXUyAoMjApFENDQU0xMjIgUHJpbnRXUyAoNjApFENDQU0xMjMgUHJpbnRXUyAoMjApFENDQU0xMjQgUHJpbnRXUyAoNjApFENDQU0xMjUgUHJpbnRXUyAoMjApFENDQU0xMjYgUHJpbnRXUyAoNjApF0NDQU0xMjdhIFNjdWxwdDEyNyAoNjApFUNDQU0xMzYgU2N1bHB0V1MgKDYwKRZDQ0FNMTM2YSBTY3VscHRXUyAoNjApFENDQU0xNDEgQ2VyYW1TdCAoNjApFENDQU0xNDEgQ2VyYW1XUyAoNjApFENDQU0xNDEgQ2VyYW1XUyAoNjApE0NDQU0xNDIgV29vZFdTICg2MCkUQ0NBTTE0OCBHcmVlblJtICg2MCkVQ0NBTTE0OCBPcmFuZ2VSbSAoNjApE0NDQU0xNTAgQ2hhcGVsICg2MCkUQ0NBTTE1OCBjZXJhbVRSICgyMCkVQ0NBTTE2MiBXZWxscGtSbSAoNjApFUNDQU0xNjMgV2VsbHBrUm0gKDYwKRNDQ0FNMjA5IFN0dWRpbyAoNjApE0NDQU0yMTAgU3R1ZGlvICg2MCkTQ0NBTTIxMSBTdHVkaW8gKDYwKRNDQ0FNMjEyIFN0dWRpbyAoNjApDENDQU0yMTMgKDYwKRNDQ0FNMjE0IFN0dWRpbyAoNjApE0NDQU0yMTggU3R1ZGlvICg2MCkSQ0NBTTIxOSBSZWRSbSAoNjApEkNDQU0yMjAgUmVkUm0gKDYwKRNDQ0FNMjIxIFN0dWRpbyAoNjApE0NDQU0yMjIgU3R1ZGlvICg2MCkZQ0NBTTIyMyBTdHVkaW8gU3BhY2UgKDYwKRZDQ0FNMjI1IFBvc3QgR3JhZCAoNjApE0NDQU0yMjggU3R1ZGlvICg2MCkTQ0NBTTIyOSBTdHVkaW8gKDYwKRNDQ0FNMjMwIFN0dWRpbyAoNjApGENDQU0yMzMgQ29tcHV0ZXJMYWIgKDYwKRhDQ0FNMjM0IENvbXB1dGVyTGFiICg2MCkVQ0NBTTIzNSBFZFN1aXRlMSAoNjApFUNDQU0yMzYgRWRTdWl0ZTIgKDYwKRVDQ0FNMjM3IEVkU3VpdGUzICg2MCkXQ0NBTTI0MiBQaG90b1ByaW50ICg2MCkXQ0NBTTI0MyBQaG90b1ByaW50ICg2MCkSQ0NBTTI0NCBMYWIgMiAoNjApFENDQU0yNTMgQmxhY2tSbSAoNjApE0NDQU0yNTQgRGFya1JtICg2MCkXQ0NBTTI1NSBQcmludFN0b3JlICg2MCkSQ0NBTTI1NiBTb3VuZCAoNjApFUNDQU0yNTcgU291bmQyNTcgKDYwKRVDQ0FNMjU4IFNvdW5kMjU3ICg2MCkTQ0NBTTI2MSBCbHVlUm0gKDI1KRRDQ0FNMjYyIENvbUxhYjEgKDYwKRRDQ0FNMjYzIENvbUxhYjEgKDYwKRNDQ0FNMzAwIE1lZXRSbSAoNjApE0NDQU0zMDEgU3R1ZGlvICg2MCkTQ0NBTTMwMiBTdHVkaW8gKDYwKRNDQ0FNMzAzIFN0dWRpbyAoNjApE0NDQU0zMDQgU3R1ZGlvICg2MCkTQ0NBTTMwNSBTdHVkaW8gKDYwKRNDQ0FNMzA2IFN0dWRpbyAoNjApE0NDQU0zMDcgU3R1ZGlvICg2MCkTQ0NBTTMwOCBTdHVkaW8gKDYwKRZDQ0FNMzA5IFRleHRpbGVXUyAoNjApFkNDQU0zMDkgVGV4dGlsZVdTICg2MCkXQ0NBTTMxMCBUZXh0aWxlTGFiICg2MCkXQ0NBTTMxMSBUZXh0aWxlTGFiICg2MCkXQ0NBTTMxMiBUZXh0aWxlTGFiICg2MCkUQ0NBTTMxN2EgU3R1ZGlvICg2MCkUQ0NBTTMxN2IgU3R1ZGlvICg2MCkUQ0NBTTMxN2MgU3R1ZGlvICg2MCkUQ0NBTTMxN2QgU3R1ZGlvICg2MCkWQ0NBTTMxN2UgUGFpbnQzMTcgKDYwKRZDQ0FNMzE3ZiBQYWludDMxNyAoNjApEkNDQU0zMjAgQ2VyYW0gKDYwKRNDQ0FNMzIxIFN0dWRpbyAoNjApE0NDQU0zMjIgU3R1ZGlvICg2MCkTQ0NBTTMyMyBTdHVkaW8gKDYwKRNDQ0FNMzI0IFN0dWRpbyAoNjApE0NDQU0zMjUgU3R1ZGlvICg2MCkTQ0NBTTMyNiBTdHVkaW8gKDYwKRNDQ0FNMzQ0IExpZmVSbSAoNjApE0NDQU0zNDUgU3R1ZGlvICg2MCkTQ0NBTTM0NiBTdHVkaW8gKDYwKRNDQ0FNMzQ3IFN0dWRpbyAoNjApE0NDQU0zNDggU3R1ZGlvICg2MCkTQ0NBTTM0OSBTdHVkaW8gKDYwKRNDQ0FNMzUwIFN0dWRpbyAoNjApE0NDQU0zNTEgU3R1ZGlvICg2MCkTQ0NBTTM1MiBTdHVkaW8gKDYwKRRDQ0FNNDAxIFdlYXZlUm0gKDYwKRZDQ0FNNDAyIFRleHRpbGVTdCAoNjApEUNDQU1DZXJhbTEwNyAoMTUpD0NDQU1IYWxsLUEgKDIwKQ9DQ0FNSGFsbC1CICgyMCkPQ0NBTUhhbGwtQyAoMjApFENDQU1QRjEgUHJlZmFiMSAoNTApFENDQU1QRjIgUHJlZmFiMiAoMjApFENDQU1QRjMgUHJlZmFiMyAoMjApFENDQU1QRjQgUHJlZmFiNCAoNTApEkNDQU1TY3VscHQxMjcgKDYwKRNDb25uYWNodCBIb3RlbCAoNTApEEcgUHJlZmFiIDAyICgxOCkQRyBQcmVmYWIgMDMgKDIyKRBHIFByZWZhYiAwNCAoMjIpEEcgUHJlZmFiIDA1ICgzMykQRyBQcmVmYWIgMDYgKDIwKRBHIFByZWZhYiAwNyAoNDgpEEcgUHJlZmFiIDA4ICgxOCkQRyBQcmVmYWIgMDkgKDE4KRpHIFByZWZhYiAxMCBFeGFtIFJvb20gKDY1KRBHIFByZWZhYiAxOCAoMjUpJEcgUmVjZXB0aW9uIEZveWVyIE5ldyBCdWlsZGluZyAoMjAwKRlHMDEzMCBIeWRyYXVsaWNzIExhYiAoMTgpGUcwMTMxIERpc3NlY3Rpb24gTGFiICgzMCkSRzAxNDEgQU1UIExhYiAoMjQpFkcwMTQzIEVuZyBTY2kgTGFiICgyMCkKRzAxNDUgKDI4KRdHMDE0OCBDb25jcmV0ZSBMYWIgKDE2KR9HMDE1MCBDaXZpbCBTdHJ1Y3R1cmVzIExhYiAoMTIpHEcwMTUyIEVudmlyb25tZW50YWwgTGFiICgxMikKRzAxNTMgKDM4KQpHMDE1NCAoMzgpCkcwMTU2ICgzOCkKRzAxNTcgKDM4KQpHMDE1OCAoMzgpCkcwMTU5ICgzOCkKRzAxNjIgKDMwKQpHMDE2NSAoODMpCkcwMjA4ICg4MCkKRzAyMDkgKDU2KRVHMDIxMCBOaW1idXMgTGFiICgyMikWRzAyMTNiIEJ1cnJlbiBMYWIgKDIxKRRHMDIxNSBBcmFubiBMYWIgKDI3KRVHMDIxNyBDb3JyaWIgTGFiICgyOSkKRzAyMjMgKDgwKR9HMDIyNCBDb21wdXRlciBhbmQgQ0FEIExhYiAoMjgpIUcwMjI1IENpdmlsIEVuZyBQcm9qZWN0IFJvb20gKDI0KRdHMDIyNiBQcm9qZWN0IFJvb20gKDI0KR9HMDIyNyBDb21wdXRlciBhbmQgQ0FEIExhYiAoMzEpHkcwMjI4IEFyY2hpdGVjdHVhbCBTdHVkaW8gKDMyKRdHMDIyOSBQcm9qZWN0IFJvb20gKDI0KRdHMDIzMCBQcm9qZWN0IFJvb20gKDI0KQtHMDIzMWIgKDQwKR5HMDMwMSBBcXVhdGljIEVjb2xvZ3kgTGFiICgxNikkRzAzMDQgQ1I2IC0gR2VuZXJhbCBTY2llbmNlIExhYiAoMjQpFkcwMzA2IEJpb2xvZ3kgTGFiICgxOCkWRzAzMDkgQmlvbG9neSBMYWIgKDIwKRZHMDMxMCBCaW9sb2d5IExhYiAoMjApGEcwMzE1YSBQaHlzaWNzdCBMYWIgKDE2KRhHMDMxNWIgUGh5c2ljc3QgTGFiICgxNikYRzAzMTVjIFBoeXNpY3N0IExhYiAoMTYpHkcwMzE4IEFxdWF0aWMgU2NpZW5jZSBMYWIgKDE4KRRHMDM0NyBFeGFtIFJvb20gKDg1KQpHMDM1MSAoMjApCkcwMzY0ICg1NykKRzAzNjUgKDU3KQpHMDM2NiAoNTcpCkcwMzY3YSAoMikKRzAzNjdiICgyKQpHMDM2OCAoMzgpCkcwMzY5ICgzOCkKRzAzNzAgKDM4KQpHMDM3MyAoMzkpCkcwMzc0ICg0NykKRzAzNzUgKDMyKQpHMDM3NiAoMzUpCkcwMzc3ICgzNSkKRzAzNzggKDQ1KQpHMDM3OSAoMzUpCkcwMzgwICg0MikbRzA0MDIgQmlvY2hlbWlzdHJ5IExhYiAoMTgpIEcwNDA1IEJpb2NoZW0vQ2hlbWlzdHJ5IExhYiAoMTgpHUcwNDExIENocm9tb3RvZ3JhcGh5IExhYiAoMjApG0cwNDIyIEVsZWN0cm8gQ2hlbSBMYWIgKDE4KQ5HMDQzNiBDUjUgKDI1KRNHMDQ1MCBHcmV5IExhYiAoMTYpG0cwNDUxIE1pY3JvYmlvbG9neSBMYWIgKDE4KSJHMDQ3MCBDb21wdXRpbmcgUHJhY3RpY2FsIExhYiAoMzUpEkcwNDcxIE1lZCBMYWIgKDE4KSBHMDQ3NSBNb2xlY3VsYXIgQmlvbG9neSBMYWIgKDI0KSVHMDQ3NiBGb29kIFNjaWVuY2UgTGFiL1dpbmUgUm9vbSAoMTYpFEcwNDc4IEdyZWVuIExhYiAoMjQpE0cwNDc5IEJsdWUgTGFiICgyNCkORzA0ODAgQ1I3ICgyNCkORzA0ODEgQ1I0ICgyMSkORzA0ODIgQ1IzICgyNSkORzA0ODMgQ1IyICgyMikORzA0ODQgQ1IxICgyMCkdRzA1MDEgRWxlY3Ryb25pYyBDQUQgTGFiICgyNCkWRzA1MDIgUGh5c2ljcyBMYWIgKDIwKRdHMDUwNiBDb21wdXRlciBMYWIgKDIwKRdHMDUwNyBDb21wdXRlciBMYWIgKDE2KRdHMDUwOCBDb21wdXRlciBMYWIgKDIwKQ5HMDUxMSBMYWIgKDE2KS9HMDUyNi83IENpdHkgb2YgR2Fsd2F5IFRyYWluaW5nIFJlc3QgJiBCYXIgKDUwKRNHMDUyNi83IElRIEJhciAoNTApEUcwNTUwIFVuaXQgNiAoMTYpGEcwNTUyIERlbW8gVGhlYXRyZSAoMTEwKSBHMDU1OSBVbml0IDggUGFzdHJ5IEtpdGNoZW4gKDE2KS9HMDU2MCBBY2NvbW1vZGF0aW9uIGFuZCBGcm9udCBPZmZpY2UgU3VpdGUgKDMyKRhHMDYwMiBDaGVtaXN0cnkgTGFiICgyMCkORzA2MDMgTGFiICgyMCkgRzA2MTAgT3JnYW5pYyBDaGVtaXN0cnkgTGFiICgxOCkRRzA2MTUgVW5pdCA5ICgyMCkRRzA2MTYgVW5pdCAxICgxNikRRzA2MjMgVW5pdCAzICgxNikRRzA2MjUgVW5pdCA0ICgxNikRRzA2MjYgVW5pdCA1ICgxNikbRzA2MjkgTWljcm9iaW9sb2d5IExhYiAoMTgpFUcwNjMyIFJldGFpbCBMYWIgKDIwKRJHMDYzNyBVbml0IDEwICgxNikWRzA3MDEgUGh5c2ljcyBMYWIgKDE4KRZHMDcwMiBQaHlzaWNzIExhYiAoMTgpFUcwNzAzIFBoeXNpY3MgTGFiICg4KRVHMDcwNCBQaHlzaWNzIExhYiAoOCkWRzA3MDcgQ0FEL0NBTSBMYWIgKDI0KQ9HMDcyNGIgVy9TICgyMCkfRzA3MjRDIFcvUyBDTkMvUGVuIEZhY3RvcnkgKDUwKRxHMDcyNGQgRW5lcmd5IEZsdWlkIExhYiAoNTApEkcwNzI4YSBHYXJhZ2UgKDI0KTlHMDczMSBXaXJpbmcgYW5kIE1vdG9yIENvbnRyb2wgSW5zdGFsbGF0aW9uIFdvcmtzaG9wICgxNikxRzA3MzYgRWxlY3RyaWNhbCBhbmQgRWxlY3Ryb25pYyBQcm9qZWN0cyBMYWIgKDE2KRtHMDgxMyBDb21wdXRlciBMYWIvUEJMICgyMCkaRzA4MjcgRWxlY3Ryb25pY3MgTGFiICgyMCkaRzA4MjggRWxlY3Ryb25pY3MgTGFiICgyMCkaRzA4MzAgRWxlY3Ryb25pY3MgTGFiICgyMCkaRzA4MzIgRWxlY3Ryb25pY3MgTGFiICgyMCkbRzA4MzQgQ29tcHV0ZXIgTGFiL1BCTCAoMjMpJ0cwODM1IEluZm8gVGVjaG5vbG9neSBDb21wdXRlciBMYWIgKDIwKQpHMDgzNyAoODEpI0cwODQxIFdpbmUgR2Vlc2UgVHJhaW5pbmcgQmFyICgxMDApK0cwODQyIENvbm5lbWFyYSBVcHN0YWlycyBUcmFpbmluZyBSZXN0ICg1MCkSRzA4NDMgVW5pdCAxMiAoMTYpC0cwOTAzICgyNTApF0cwOTA3IExhbmd1YWdlIExhYiAoMjApF0cwOTEwIExhbmd1YWdlIExhYiAoMjApCkcwOTM4ICg2MCkKRzA5MzkgKDkwKQpHMDk0MCAoOTApC0cwOTQxICgxNTApC0cwOTk0ICgxNTApCkcwOTk1ICg5MCkKRzA5OTYgKDkwKQpHMDk5NyAoNjApGEcxMDAwIEJsdWUgVGhlYXRyZSAoMjg4KQpHMTAzMSAoMzQpCkcxMDMyICgzNCkKRzEwMzMgKDM0KQpHMTAzNCAoMzQpCkcxMDM1ICgzNCkKRzEwMzYgKDMwKQpHMTAzOSAoNjApIEcxMDQxIFZpZGVvIENvbmZlcmVuY2UgUm9vbSAoNjApGExFVFQgQ29tcHV0ZXIgTGFiIDEgKDUwKRhMRVRUIENvbXB1dGVyIExhYiAyICg1MCkZTEVUVCBEZXNpZ24gU3R1ZGlvIDEgKDUwKRlMRVRUIERlc2lnbiBTdHVkaW8gMiAoNTApGUxFVFQgRGVzaWduIFN0dWRpbyAzICg1MCkbTEVUVCBMZWN0dXJlIFRoZWF0cmUgMSAoNTApG0xFVFQgTGVjdHVyZSBUaGVhdHJlIDIgKDUwKRtMRVRUIExlY3R1cmUgVGhlYXRyZSAzICg1MCkbTEVUVCBMZWN0dXJlIFRoZWF0cmUgNCAoNTApG0xFVFQgTGVjdHVyZSBUaGVhdHJlIDUgKDUwKRlMRVRUIE1hY2hpbmUgSGFsbCAxQSAoNTApGUxFVFQgTWFjaGluZSBIYWxsIDFCICg1MCkYTEVUVCBNYWNoaW5lIEhhbGwgMiAoNTApHUxldHRlcmZyYWNrIEJlbmNoIFJvb20gMSAoNTApHUxldHRlcmZyYWNrIEJlbmNoIFJvb20gMiAoNTApFU1heW9DTC1CMTE3LVVuaXggKDI1KRRNYXlvQ0wtQjIwOC1jbDQgKDI1KQ9NYXlvQ0wtTmV0ICgyOCkUTWF5b0NMLVIyMDItQ0FEICgyNSkUTWF5b0NMLVkxMDAtY2w2ICgyNSkUTWF5b0NMLVkxMDMtY2w1ICgyNSkUTWF5b0NMLVkyMDAtY2wyICgyNSkUTWF5b0NMLVkyMDEtY2wxICgyNSkUTWF5b0xhYi1CMDE3LUNIICg0MCkYTWF5b0xhYi1HMTAyLURpZ21lcyAoMzApFE1heW9MYWItUjIwMC1ETyAoNDApFE1heW9MYWItWTAxNi1BMyAoMTgpFE1heW9MYWItWTAxNy1BMSAoMTgpFE1heW9MYWItWTAxOC1BMiAoMTgpFk1heW9NUi1QMTA2LUJvYXJkICgzMCkXTWF5b05MYWItUDAxMS1BbmF0ICg0MCkYTWF5b05MYWItUDEwMi1UYWZmZSAoNDgpHk1heW9OTGFiLVAxMDQtc3R1ZGVudCByb29tICg4KRlNYXlvTkxhYi1QMTA1LWxpdmluZyAoMjgpF01heW9OTGFiLVAyMDQtVkhlbiAoMjApGU1heW9OTGFiLVkwMTEtTi9HYWxlICg0OCkQTWF5by1Qb29sICgxMDAwKRNNYXlvU1ItQjAwMy1NQiAoNDUpEE1heW9TUi1CMDI3ICgxNykXTWF5b1NSLUIwMzAgKHNyMDkpICg0MCkXTWF5b1NSLUIxMjAtKHNyMTIpICgzMCkXTWF5b1NSLUIxMjEgKHNyMTApICg2MCkWTWF5b1NSLUIxMjItIExhbmcgKDE1KRZNYXlvU1ItRzEwNC0oc3I4KSAoNjApF01heW9TUi1QMDAyLUNsZWFyICgxMjApFk1heW9TUi1QMDA0LUhvcmFuICgzMikWTWF5b1NSLVAwMDUtSGVhbHkgKDI5KRhNYXlvU1ItUDAwOS1NY01hbnVzICgzMCkWTWF5b1NSLVAxMTAtUGluZWwgKDQ4KRVNYXlvU1ItUDExNC1PQ2FyICg2MCkWTWF5b1NSLVAyMDEtRXJyaXMgKDIwKRdNYXlvU1ItUjEwNC1EYXZpdHQgKDgwKRZNYXlvU1ItWTAwMi0oc3IxKSAoMzUpF01heW9TUi1ZMDA3LShzcjE0KSAoMTgpF01heW9TUi1ZMTA0LShzcjE2KSAoMzApF01heW9TUi1ZMTA2LShzcjE1KSAoMTgpF01heW9TUi1ZMTA4LUJyb3duZSAoODApFk1heW9TdCBNYXJ5cyBIYWxsICgyNSkJTlVJRyAoMjApCU5VSUcgKDIwKRW+AgwjU1BMVVM5QjBGMTEMI1NQTFVTODE5MDIxDCNTUExVUzlCMEYwRgwjU1BMVVM4NkFDMzMMI1NQTFVTMUNDRjlBDCNTUExVU0QyNEI0RgwjU1BMVVNEMjRCNTAMI1NQTFVTMUNDRjlCDCNTUExVU0QyNEI1MQwjU1BMVVMxQ0NGOUMMI1NQTFVTRDI0QjUyDCNTUExVUzU1MDE4RgwjU1BMVVM5QzEyMjAMI1NQTFVTNTUwMTdFDCNTUExVU0QyNEI1MwwjU1BMVVNEMjRCNTQMI1NQTFVTQjhBMTcyDCNTUExVUzU1MDE4NwwjU1BMVVNEMjRCNTUMI1NQTFVTRDI0QjU2DCNTUExVUzUwNTAyRgwjU1BMVVNEMjRCNTcMI1NQTFVTQjhBMTczDCNTUExVU0RGM0YwNAwjU1BMVVNDM0Y0MjMMI1NQTFVTRDI0QjU5DCNTUExVU0QyNEI1QQwjU1BMVVNEMjRCNUIMI1NQTFVTRDI0QjVDDCNTUExVUzU1MDE3NAwjU1BMVVM1NTAxNzUMI1NQTFVTNTUwMTc2DCNTUExVUzlENjQwQQwjU1BMVVM1NTAxNDkMI1NQTFVTNTUwMTc3DCNTUExVUzU1MDE3OAwjU1BMVVM1NTAxNzkMI1NQTFVTNUNFNTk5DCNTUExVUzU1MDE5MwwjU1BMVVM1NTAxOTQMI1NQTFVTNTUwMTk1DCNTUExVUzlCMEYwQwwjU1BMVVNEMjRCNUQMI1NQTFVTODZBQzM1DCNTUExVU0RGM0YwMwwjU1BMVVM4NkFDMzYMI1NQTFVTRDI0QjVFDCNTUExVU0QyNEI1RgwjU1BMVVM5QjBGMjEMI1NQTFVTRThEODAxDCNTUExVU0QyNEI2MAwjU1BMVVNEMjRCNjEMI1NQTFVTRThEODA0DCNTUExVU0JFQ0E3NwwjU1BMVVNEMjRCNjIMI1NQTFVTOUIwRjEzDCNTUExVU0QyNEI2MwwjU1BMVVNFOEQ4MDIMI1NQTFVTRDI0QjY0DCNTUExVUzlCMEYyMAwjU1BMVVNEMjRCNjUMI1NQTFVTRDI0QjY2DCNTUExVU0QyNEI2NwwjU1BMVVNEMjRCNjgMI1NQTFVTRDI0QjY5DCNTUExVU0QyNEI2QQwjU1BMVVNEMjRCNkIMI1NQTFVTNDlFMUUyDCNTUExVU0NBNUU0OAwjU1BMVVNEMjRCNkMMI1NQTFVTRDI0QjZEDCNTUExVU0QyNEI2RQwjU1BMVVM1NEZGOTkMI1NQTFVTRDI0QjZGDCNTUExVU0QyNEI3MAwjU1BMVVNEMjRCNzEMI1NQTFVTRDI0QjcyDCNTUExVU0QyNEI3MwwjU1BMVVNEMjRCNzQMI1NQTFVTNTUwMTk2DCNTUExVU0Q5MTY3NwwjU1BMVVNEOTE2NzgMI1NQTFVTNTUwMTgyDCNTUExVUzU1MDE4MwwjU1BMVVM1NTAxODQMI1NQTFVTRThEODAzDCNTUExVU0Q5MTY3MgwjU1BMVVNEOTE2NzMMI1NQTFVTRDkxNjc0DCNTUExVU0Q5MTY3NQwjU1BMVVNEOTE2NzYMI1NQTFVTNTUwMTkwDCNTUExVUzU1MDE5MQwjU1BMVVM1NTAxOTIMI1NQTFVTRDI0Qjc1DCNTUExVUzU1MDE4QwwjU1BMVVM5QjBGMUMMI1NQTFVTNTRGRjk4DCNTUExVUzU1MDEyOQwjU1BMVVMxQ0NGOTcMI1NQTFVTOUIwRjE1DCNTUExVUzlCMEYxNgwjU1BMVVM5QjBGMTcMI1NQTFVTOUIwRjE4DCNTUExVUzU1MDE3RA5Db25uYWNodCBIb3RlbARQRjAyBFBGMDMEUEYwNARQRjA1BFBGMDYEUEYwNwRQRjA4BFBGMDkEUEYxMARQRjE4DCNTUExVUzRGOTYxNwwjU1BMVVNEODNDNDMDMTMxBDAxNDEEMDE0MwQwMTQ1BDAxNDgMI1NQTFVTRDgzQzQ0BDAxMzAEMDE1MwQwMTU0BDAxNTYEMDE1NwQwMTU4BDAxNTkEMDE2MgQwMTY1BDAyMDgEMDIwOQQwMjEwBTAyMTNiBDAyMTUEMDIxNwQwMjIzBDAyMjQEMDIyNQQwMjI2BDAyMjcEMDIyOAQwMjI5BDAyMzAFMDIzMWIEMDMwMRFmb3JtYWxseSByb29tIDM4MgQwMzA2BDAzMDkEMDMxMAQwMzE1DCNTUExVUzU1ODk3NgwjU1BMVVM1NTg5NzcEMDMxOAwjU1BMVVNCNkREMjIEMDM1MQQwMzY0BDAzNjUEMDM2NgQwMzY3DCNTUExVUzgwOUY4OQQwMzY4BDAzNjkEMDM3MAQwMzczBDAzNzQEMDM3NQQwMzc2BDAzNzcEMDM3OAQwMzc5BDAzODAEMDQwMgQwNDA1BDA0MTEEMDQyMgQwNDM2BDA0NTAEMDQ1MQQwNDcwBDA0NzEEMDQ3NQQwNDc2BDA0NzgEMDQ3OQQwNDgwBDA0ODEEMDQ4MgQwNDgzBDA0ODQEMDUwMQQwNTAyDCNTUExVUzIzOTIzNgQwNTA3BDA1MDgEMDUxMQQwNTI3DCNTUExVU0M1QTlBNQQwNTUwBDA1NTIEMDU1OQQwNTYwBDA2MDIEMDYwMwQwNjEwBDA2MTUEMDYxNgQwNjIzBDA2MjUEMDYyNgQwNjI5DCNTUExVUzcxOEZENQQwNjM3CTA3MDEvMDcwNAkwNzAyLzA3MDMMI1NQTFVTRkFFMENEDCNTUExVU0ZBRTBDQwQwNzA3BTA3MjRiBTA3MjRjBTA3MjRkBTA3MjhhBDA3MzEEMDczNgQwODEzBDA4MjcEMDgyOAUwODMwYQQwODMyBDA4MzQEMDgzNQQwODM3BDA4NDEEMDg0MgQwODQzBDA5MDMEMDkwNwQwOTEwBDA5MzgEMDkzOQQwOTQwBDA5NDEEMDk5NAQwOTk1BDA5OTYEMDk5NwQxMDAwBDEwMzEEMTAzMgQxMDMzBDEwMzQEMTAzNQUxMDM2YQQxMDM5BDEwNDEMI1NQTFVTMTc4MjZDDCNTUExVUzE3ODI2RAwjU1BMVVMxNzgyNkUMI1NQTFVTMTc4MjZGDCNTUExVUzE3ODI3MAwjU1BMVVMxNzgyNjIMI1NQTFVTMTc4MjYzDCNTUExVUzE3ODI2NAwjU1BMVVMxNzgyNjUMI1NQTFVTMTc4MjY2DCNTUExVUzE3ODI2QQwjU1BMVVM1NTU0QjEMI1NQTFVTMTc4MjZCDCNTUExVUzE3ODI2NwwjU1BMVVMxNzgyNjgMQ0wtQjExNy1Vbml4C0NMLUIyMDgtY2w0BkNMLU5ldAtDTC1SMjAyLUNBRAtDTC1ZMTAwLWNsNgtDTC1ZMTAzLWNsNQtDTC1ZMjAwLWNsMgtDTC1ZMjAxLWNsMQtMYWItQjAxNy1DSA9MYWItRzEwMi1EaWdtZXMLTGFiLVIyMDAtRE8LTGFiLVkwMTctQTMLTGFiLVkwMTctQTELTGFiLVkwMTgtQTINTVItUDEwNi1Cb2FyZA5OTGFiLVAwMTEtQW5hdA9OTGFiLVAxMDItVGFmZmUJTkxhYi1QMTA0EE5MYWItUDEwNS1saXZpbmcOTkxhYi1QMjA0LVZIZW4QTkxhYi1ZMDExLU4vR2FsZQwjU1BMVVNCMEEyRkUKU1ItQjAwMy1NQgdTUi1CMDI3DlNSLUIwMzAgKHNyMDkpDlNSLUIxMjAtKHNyMTIpDlNSLUIxMjEgKHNyMTApDVNSLUIxMjItIExhbmcNU1ItRzEwNC0oc3I4KQ1TUi1QMDAyLUNsZWFyDVNSLVAwMDQtSG9yYW4NU1ItUDAwNS1IZWFseQ9TUi1QMDA5LU1jTWFudXMNU1ItUDExMC1QaW5lbAxTUi1QMTE0LU9DYXINU1ItUDIwMS1FcnJpcw5TUi1SMTA0LURhdml0dA1TUi1ZMDAyLShzcjEpDlNSLVkwMDctKHNyMTQpDlNSLVkxMDQtKHNyMTYpDlNSLVkxMDYtKHNyMTUpDlNSLVkxMDgtQnJvd25lDCNTUExVU0M1MzNCNgwjU1BMVVNFNzlGQUQETlVJRxQrA74CZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dn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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="77EF024B">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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">
+</div>
+    <div>
+        &nbsp;
+        <input type="hidden" name="tLinkType" id="tLinkType" value="locations">
+        &nbsp;&nbsp;
+     <!-- INCLUDE the following if you want the Links to go DOWN the page -->   
+     
+     <table width="100%">
+     <tbody><tr>
+     <td class="LinkPanel"> 
+     
+     <!-- END INCLUDE the following if you want the Links to go DOWN the page -->   
+      
+      
+        <div id="pLinkPanel" dir="ltr">
+	<div>
+		<a id="LinkBtn_information" class="LinkButton" href="javascript:__doPostBack('LinkBtn_information','')">&nbsp;16/17 Web Timetable Home&nbsp;</a>
+	</div><div>
+		<a id="LinkBtn_programmesofstudy" class="LinkButton" href="javascript:__doPostBack('LinkBtn_programmesofstudy','')">&nbsp;Programmes&nbsp;</a>
+	</div><div>
+		<a id="LinkBtn_locations" class="LinkButtonSelected" href="javascript:__doPostBack('LinkBtn_locations','')">&nbsp;Rooms&nbsp;</a>
+	</div><div>
+		<a id="LinkBtn_staffbytext" class="LinkButton" href="javascript:__doPostBack('LinkBtn_staffbytext','')">&nbsp;Staff&nbsp;</a>
+	</div>
+</div>
+        
+     <!-- INCLUDE the following if you want the Links to go DOWN the page -->   
+     
+     </td>
+     <td class="FilterPanel" style="width: 59%"> 
+     
+     <!-- END INCLUDE the following if you want the Links to go DOWN the page -->   
+        <div id="pFilterPanel" style="width:100%;">
+	
+            <div id="pFilterTitle" style="width:100%;">
+		
+                <span id="tFilterTitle" class="FilterTitle">16/17 Location Timetables</span>
+                
+	</div>
+            
+            
+            
+            
+            
+            
+                
+            <div id="pWildcard" style="width:100%;">
+		
+                <table class="DepartmentTable">
+                <tbody><tr>
+                <td class="DepartmentLabel"><span id="lWildcard" class="DepartmentLabel">Location Search String (optional): </span>
+                </td>
+                <td><input name="tWildcard" type="text" id="tWildcard" class="WildcardTextBox">
+                <input type="submit" name="bWildcard" value="Search" id="bWildcard" class="WildcardButton">
+                </td>
+                </tr>
+                </tbody></table>
+             
+	</div>
+            <div id="pObject" style="width:100%;">
+		
+            <table class="DepartmentTable">
+                <tbody><tr>
+                <td class="DepartmentLabel">
+                 <span id="lObject" class="DepartmentLabel">Select Room(s)</span>
+                
+                </td>
+                <td>
+                <select size="10" name="dlObject" multiple="multiple" id="dlObject" class="DepartmentFilter">
+			<option value="#SPLUS9B0F11">CCAM104 WhiteRm (60)</option>
+			<option value="#SPLUS819021">CCAM107 107 (60)</option>
+			<option value="#SPLUS9B0F0F">CCAM115 FASRm (30)</option>
+			<option value="#SPLUS86AC33">CCAM116 Print 117 (60)</option>
+			<option value="#SPLUS1CCF9A">CCAM117 Print (60)</option>
+			<option value="#SPLUSD24B4F">CCAM120 PrintWS (20)</option>
+			<option value="#SPLUSD24B50">CCAM121 PrintWS (20)</option>
+			<option value="#SPLUS1CCF9B">CCAM122 PrintWS (60)</option>
+			<option value="#SPLUSD24B51">CCAM123 PrintWS (20)</option>
+			<option value="#SPLUS1CCF9C">CCAM124 PrintWS (60)</option>
+			<option value="#SPLUSD24B52">CCAM125 PrintWS (20)</option>
+			<option value="#SPLUS55018F">CCAM126 PrintWS (60)</option>
+			<option value="#SPLUS9C1220">CCAM127a Sculpt127 (60)</option>
+			<option value="#SPLUS55017E">CCAM136 SculptWS (60)</option>
+			<option value="#SPLUSD24B53">CCAM136a SculptWS (60)</option>
+			<option value="#SPLUSD24B54">CCAM141 CeramSt (60)</option>
+			<option value="#SPLUSB8A172">CCAM141 CeramWS (60)</option>
+			<option value="#SPLUS550187">CCAM141 CeramWS (60)</option>
+			<option value="#SPLUSD24B55">CCAM142 WoodWS (60)</option>
+			<option value="#SPLUSD24B56">CCAM148 GreenRm (60)</option>
+			<option value="#SPLUS50502F">CCAM148 OrangeRm (60)</option>
+			<option value="#SPLUSD24B57">CCAM150 Chapel (60)</option>
+			<option value="#SPLUSB8A173">CCAM158 ceramTR (20)</option>
+			<option value="#SPLUSDF3F04">CCAM162 WellpkRm (60)</option>
+			<option value="#SPLUSC3F423">CCAM163 WellpkRm (60)</option>
+			<option value="#SPLUSD24B59">CCAM209 Studio (60)</option>
+			<option value="#SPLUSD24B5A">CCAM210 Studio (60)</option>
+			<option value="#SPLUSD24B5B">CCAM211 Studio (60)</option>
+			<option value="#SPLUSD24B5C">CCAM212 Studio (60)</option>
+			<option value="#SPLUS550174">CCAM213 (60)</option>
+			<option value="#SPLUS550175">CCAM214 Studio (60)</option>
+			<option value="#SPLUS550176">CCAM218 Studio (60)</option>
+			<option value="#SPLUS9D640A">CCAM219 RedRm (60)</option>
+			<option value="#SPLUS550149">CCAM220 RedRm (60)</option>
+			<option value="#SPLUS550177">CCAM221 Studio (60)</option>
+			<option value="#SPLUS550178">CCAM222 Studio (60)</option>
+			<option value="#SPLUS550179">CCAM223 Studio Space (60)</option>
+			<option value="#SPLUS5CE599">CCAM225 Post Grad (60)</option>
+			<option value="#SPLUS550193">CCAM228 Studio (60)</option>
+			<option value="#SPLUS550194">CCAM229 Studio (60)</option>
+			<option value="#SPLUS550195">CCAM230 Studio (60)</option>
+			<option value="#SPLUS9B0F0C">CCAM233 ComputerLab (60)</option>
+			<option value="#SPLUSD24B5D">CCAM234 ComputerLab (60)</option>
+			<option value="#SPLUS86AC35">CCAM235 EdSuite1 (60)</option>
+			<option value="#SPLUSDF3F03">CCAM236 EdSuite2 (60)</option>
+			<option value="#SPLUS86AC36">CCAM237 EdSuite3 (60)</option>
+			<option value="#SPLUSD24B5E">CCAM242 PhotoPrint (60)</option>
+			<option value="#SPLUSD24B5F">CCAM243 PhotoPrint (60)</option>
+			<option value="#SPLUS9B0F21">CCAM244 Lab 2 (60)</option>
+			<option value="#SPLUSE8D801">CCAM253 BlackRm (60)</option>
+			<option value="#SPLUSD24B60">CCAM254 DarkRm (60)</option>
+			<option value="#SPLUSD24B61">CCAM255 PrintStore (60)</option>
+			<option value="#SPLUSE8D804">CCAM256 Sound (60)</option>
+			<option value="#SPLUSBECA77">CCAM257 Sound257 (60)</option>
+			<option value="#SPLUSD24B62">CCAM258 Sound257 (60)</option>
+			<option value="#SPLUS9B0F13">CCAM261 BlueRm (25)</option>
+			<option value="#SPLUSD24B63">CCAM262 ComLab1 (60)</option>
+			<option value="#SPLUSE8D802">CCAM263 ComLab1 (60)</option>
+			<option value="#SPLUSD24B64">CCAM300 MeetRm (60)</option>
+			<option value="#SPLUS9B0F20">CCAM301 Studio (60)</option>
+			<option value="#SPLUSD24B65">CCAM302 Studio (60)</option>
+			<option value="#SPLUSD24B66">CCAM303 Studio (60)</option>
+			<option value="#SPLUSD24B67">CCAM304 Studio (60)</option>
+			<option value="#SPLUSD24B68">CCAM305 Studio (60)</option>
+			<option value="#SPLUSD24B69">CCAM306 Studio (60)</option>
+			<option value="#SPLUSD24B6A">CCAM307 Studio (60)</option>
+			<option value="#SPLUSD24B6B">CCAM308 Studio (60)</option>
+			<option value="#SPLUS49E1E2">CCAM309 TextileWS (60)</option>
+			<option value="#SPLUSCA5E48">CCAM309 TextileWS (60)</option>
+			<option value="#SPLUSD24B6C">CCAM310 TextileLab (60)</option>
+			<option value="#SPLUSD24B6D">CCAM311 TextileLab (60)</option>
+			<option value="#SPLUSD24B6E">CCAM312 TextileLab (60)</option>
+			<option value="#SPLUS54FF99">CCAM317a Studio (60)</option>
+			<option value="#SPLUSD24B6F">CCAM317b Studio (60)</option>
+			<option value="#SPLUSD24B70">CCAM317c Studio (60)</option>
+			<option value="#SPLUSD24B71">CCAM317d Studio (60)</option>
+			<option value="#SPLUSD24B72">CCAM317e Paint317 (60)</option>
+			<option value="#SPLUSD24B73">CCAM317f Paint317 (60)</option>
+			<option value="#SPLUSD24B74">CCAM320 Ceram (60)</option>
+			<option value="#SPLUS550196">CCAM321 Studio (60)</option>
+			<option value="#SPLUSD91677">CCAM322 Studio (60)</option>
+			<option value="#SPLUSD91678">CCAM323 Studio (60)</option>
+			<option value="#SPLUS550182">CCAM324 Studio (60)</option>
+			<option value="#SPLUS550183">CCAM325 Studio (60)</option>
+			<option value="#SPLUS550184">CCAM326 Studio (60)</option>
+			<option value="#SPLUSE8D803">CCAM344 LifeRm (60)</option>
+			<option value="#SPLUSD91672">CCAM345 Studio (60)</option>
+			<option value="#SPLUSD91673">CCAM346 Studio (60)</option>
+			<option value="#SPLUSD91674">CCAM347 Studio (60)</option>
+			<option value="#SPLUSD91675">CCAM348 Studio (60)</option>
+			<option value="#SPLUSD91676">CCAM349 Studio (60)</option>
+			<option value="#SPLUS550190">CCAM350 Studio (60)</option>
+			<option value="#SPLUS550191">CCAM351 Studio (60)</option>
+			<option value="#SPLUS550192">CCAM352 Studio (60)</option>
+			<option value="#SPLUSD24B75">CCAM401 WeaveRm (60)</option>
+			<option value="#SPLUS55018C">CCAM402 TextileSt (60)</option>
+			<option value="#SPLUS9B0F1C">CCAMCeram107 (15)</option>
+			<option value="#SPLUS54FF98">CCAMHall-A (20)</option>
+			<option value="#SPLUS550129">CCAMHall-B (20)</option>
+			<option value="#SPLUS1CCF97">CCAMHall-C (20)</option>
+			<option value="#SPLUS9B0F15">CCAMPF1 Prefab1 (50)</option>
+			<option value="#SPLUS9B0F16">CCAMPF2 Prefab2 (20)</option>
+			<option value="#SPLUS9B0F17">CCAMPF3 Prefab3 (20)</option>
+			<option value="#SPLUS9B0F18">CCAMPF4 Prefab4 (50)</option>
+			<option value="#SPLUS55017D">CCAMSculpt127 (60)</option>
+			<option value="Connacht Hotel">Connacht Hotel (50)</option>
+			<option value="PF02">G Prefab 02 (18)</option>
+			<option value="PF03">G Prefab 03 (22)</option>
+			<option value="PF04">G Prefab 04 (22)</option>
+			<option value="PF05">G Prefab 05 (33)</option>
+			<option value="PF06">G Prefab 06 (20)</option>
+			<option value="PF07">G Prefab 07 (48)</option>
+			<option value="PF08">G Prefab 08 (18)</option>
+			<option value="PF09">G Prefab 09 (18)</option>
+			<option value="PF10">G Prefab 10 Exam Room (65)</option>
+			<option value="PF18">G Prefab 18 (25)</option>
+			<option value="#SPLUS4F9617">G Reception Foyer New Building (200)</option>
+			<option value="#SPLUSD83C43">G0130 Hydraulics Lab (18)</option>
+			<option value="131">G0131 Dissection Lab (30)</option>
+			<option value="0141">G0141 AMT Lab (24)</option>
+			<option value="0143">G0143 Eng Sci Lab (20)</option>
+			<option value="0145">G0145 (28)</option>
+			<option value="0148">G0148 Concrete Lab (16)</option>
+			<option value="#SPLUSD83C44">G0150 Civil Structures Lab (12)</option>
+			<option value="0130">G0152 Environmental Lab (12)</option>
+			<option value="0153">G0153 (38)</option>
+			<option value="0154">G0154 (38)</option>
+			<option value="0156">G0156 (38)</option>
+			<option value="0157">G0157 (38)</option>
+			<option value="0158">G0158 (38)</option>
+			<option value="0159">G0159 (38)</option>
+			<option value="0162">G0162 (30)</option>
+			<option value="0165">G0165 (83)</option>
+			<option value="0208">G0208 (80)</option>
+			<option value="0209">G0209 (56)</option>
+			<option value="0210">G0210 Nimbus Lab (22)</option>
+			<option value="0213b">G0213b Burren Lab (21)</option>
+			<option value="0215">G0215 Arann Lab (27)</option>
+			<option value="0217">G0217 Corrib Lab (29)</option>
+			<option value="0223">G0223 (80)</option>
+			<option value="0224">G0224 Computer and CAD Lab (28)</option>
+			<option value="0225">G0225 Civil Eng Project Room (24)</option>
+			<option value="0226">G0226 Project Room (24)</option>
+			<option value="0227">G0227 Computer and CAD Lab (31)</option>
+			<option value="0228">G0228 Architectual Studio (32)</option>
+			<option value="0229">G0229 Project Room (24)</option>
+			<option value="0230">G0230 Project Room (24)</option>
+			<option value="0231b">G0231b (40)</option>
+			<option value="0301">G0301 Aquatic Ecology Lab (16)</option>
+			<option value="formally room 382">G0304 CR6 - General Science Lab (24)</option>
+			<option value="0306">G0306 Biology Lab (18)</option>
+			<option value="0309">G0309 Biology Lab (20)</option>
+			<option value="0310">G0310 Biology Lab (20)</option>
+			<option value="0315">G0315a Physicst Lab (16)</option>
+			<option value="#SPLUS558976">G0315b Physicst Lab (16)</option>
+			<option value="#SPLUS558977">G0315c Physicst Lab (16)</option>
+			<option value="0318">G0318 Aquatic Science Lab (18)</option>
+			<option value="#SPLUSB6DD22">G0347 Exam Room (85)</option>
+			<option value="0351">G0351 (20)</option>
+			<option value="0364">G0364 (57)</option>
+			<option value="0365">G0365 (57)</option>
+			<option value="0366">G0366 (57)</option>
+			<option value="0367">G0367a (2)</option>
+			<option value="#SPLUS809F89">G0367b (2)</option>
+			<option value="0368">G0368 (38)</option>
+			<option value="0369">G0369 (38)</option>
+			<option value="0370">G0370 (38)</option>
+			<option value="0373">G0373 (39)</option>
+			<option value="0374">G0374 (47)</option>
+			<option value="0375">G0375 (32)</option>
+			<option value="0376">G0376 (35)</option>
+			<option value="0377">G0377 (35)</option>
+			<option value="0378">G0378 (45)</option>
+			<option value="0379">G0379 (35)</option>
+			<option value="0380">G0380 (42)</option>
+			<option value="0402">G0402 Biochemistry Lab (18)</option>
+			<option value="0405">G0405 Biochem/Chemistry Lab (18)</option>
+			<option value="0411">G0411 Chromotography Lab (20)</option>
+			<option value="0422">G0422 Electro Chem Lab (18)</option>
+			<option value="0436">G0436 CR5 (25)</option>
+			<option value="0450">G0450 Grey Lab (16)</option>
+			<option value="0451">G0451 Microbiology Lab (18)</option>
+			<option value="0470">G0470 Computing Practical Lab (35)</option>
+			<option value="0471">G0471 Med Lab (18)</option>
+			<option value="0475">G0475 Molecular Biology Lab (24)</option>
+			<option value="0476">G0476 Food Science Lab/Wine Room (16)</option>
+			<option value="0478">G0478 Green Lab (24)</option>
+			<option value="0479">G0479 Blue Lab (24)</option>
+			<option value="0480">G0480 CR7 (24)</option>
+			<option value="0481">G0481 CR4 (21)</option>
+			<option value="0482">G0482 CR3 (25)</option>
+			<option value="0483">G0483 CR2 (22)</option>
+			<option value="0484">G0484 CR1 (20)</option>
+			<option value="0501">G0501 Electronic CAD Lab (24)</option>
+			<option value="0502">G0502 Physics Lab (20)</option>
+			<option value="#SPLUS239236">G0506 Computer Lab (20)</option>
+			<option value="0507">G0507 Computer Lab (16)</option>
+			<option value="0508">G0508 Computer Lab (20)</option>
+			<option value="0511">G0511 Lab (16)</option>
+			<option value="0527">G0526/7 City of Galway Training Rest &amp; Bar (50)</option>
+			<option value="#SPLUSC5A9A5">G0526/7 IQ Bar (50)</option>
+			<option value="0550">G0550 Unit 6 (16)</option>
+			<option value="0552">G0552 Demo Theatre (110)</option>
+			<option value="0559">G0559 Unit 8 Pastry Kitchen (16)</option>
+			<option value="0560">G0560 Accommodation and Front Office Suite (32)</option>
+			<option value="0602">G0602 Chemistry Lab (20)</option>
+			<option value="0603">G0603 Lab (20)</option>
+			<option value="0610">G0610 Organic Chemistry Lab (18)</option>
+			<option value="0615">G0615 Unit 9 (20)</option>
+			<option value="0616">G0616 Unit 1 (16)</option>
+			<option value="0623">G0623 Unit 3 (16)</option>
+			<option value="0625">G0625 Unit 4 (16)</option>
+			<option value="0626">G0626 Unit 5 (16)</option>
+			<option value="0629">G0629 Microbiology Lab (18)</option>
+			<option value="#SPLUS718FD5">G0632 Retail Lab (20)</option>
+			<option value="0637">G0637 Unit 10 (16)</option>
+			<option value="0701/0704">G0701 Physics Lab (18)</option>
+			<option value="0702/0703">G0702 Physics Lab (18)</option>
+			<option value="#SPLUSFAE0CD">G0703 Physics Lab (8)</option>
+			<option value="#SPLUSFAE0CC">G0704 Physics Lab (8)</option>
+			<option value="0707">G0707 CAD/CAM Lab (24)</option>
+			<option value="0724b">G0724b W/S (20)</option>
+			<option value="0724c">G0724C W/S CNC/Pen Factory (50)</option>
+			<option value="0724d">G0724d Energy Fluid Lab (50)</option>
+			<option value="0728a">G0728a Garage (24)</option>
+			<option value="0731">G0731 Wiring and Motor Control Installation Workshop (16)</option>
+			<option value="0736">G0736 Electrical and Electronic Projects Lab (16)</option>
+			<option value="0813">G0813 Computer Lab/PBL (20)</option>
+			<option value="0827">G0827 Electronics Lab (20)</option>
+			<option value="0828">G0828 Electronics Lab (20)</option>
+			<option value="0830a">G0830 Electronics Lab (20)</option>
+			<option value="0832">G0832 Electronics Lab (20)</option>
+			<option value="0834">G0834 Computer Lab/PBL (23)</option>
+			<option value="0835">G0835 Info Technology Computer Lab (20)</option>
+			<option value="0837">G0837 (81)</option>
+			<option value="0841">G0841 Wine Geese Training Bar (100)</option>
+			<option value="0842">G0842 Connemara Upstairs Training Rest (50)</option>
+			<option value="0843">G0843 Unit 12 (16)</option>
+			<option value="0903">G0903 (250)</option>
+			<option value="0907">G0907 Language Lab (20)</option>
+			<option value="0910">G0910 Language Lab (20)</option>
+			<option value="0938">G0938 (60)</option>
+			<option value="0939">G0939 (90)</option>
+			<option value="0940">G0940 (90)</option>
+			<option value="0941">G0941 (150)</option>
+			<option value="0994">G0994 (150)</option>
+			<option value="0995">G0995 (90)</option>
+			<option value="0996">G0996 (90)</option>
+			<option value="0997">G0997 (60)</option>
+			<option value="1000">G1000 Blue Theatre (288)</option>
+			<option value="1031">G1031 (34)</option>
+			<option value="1032">G1032 (34)</option>
+			<option value="1033">G1033 (34)</option>
+			<option value="1034">G1034 (34)</option>
+			<option value="1035">G1035 (34)</option>
+			<option value="1036a">G1036 (30)</option>
+			<option value="1039">G1039 (60)</option>
+			<option value="1041">G1041 Video Conference Room (60)</option>
+			<option value="#SPLUS17826C">LETT Computer Lab 1 (50)</option>
+			<option value="#SPLUS17826D">LETT Computer Lab 2 (50)</option>
+			<option value="#SPLUS17826E">LETT Design Studio 1 (50)</option>
+			<option value="#SPLUS17826F">LETT Design Studio 2 (50)</option>
+			<option value="#SPLUS178270">LETT Design Studio 3 (50)</option>
+			<option value="#SPLUS178262">LETT Lecture Theatre 1 (50)</option>
+			<option value="#SPLUS178263">LETT Lecture Theatre 2 (50)</option>
+			<option value="#SPLUS178264">LETT Lecture Theatre 3 (50)</option>
+			<option value="#SPLUS178265">LETT Lecture Theatre 4 (50)</option>
+			<option value="#SPLUS178266">LETT Lecture Theatre 5 (50)</option>
+			<option value="#SPLUS17826A">LETT Machine Hall 1A (50)</option>
+			<option value="#SPLUS5554B1">LETT Machine Hall 1B (50)</option>
+			<option value="#SPLUS17826B">LETT Machine Hall 2 (50)</option>
+			<option value="#SPLUS178267">Letterfrack Bench Room 1 (50)</option>
+			<option value="#SPLUS178268">Letterfrack Bench Room 2 (50)</option>
+			<option value="CL-B117-Unix">MayoCL-B117-Unix (25)</option>
+			<option value="CL-B208-cl4">MayoCL-B208-cl4 (25)</option>
+			<option value="CL-Net">MayoCL-Net (28)</option>
+			<option value="CL-R202-CAD">MayoCL-R202-CAD (25)</option>
+			<option value="CL-Y100-cl6">MayoCL-Y100-cl6 (25)</option>
+			<option value="CL-Y103-cl5">MayoCL-Y103-cl5 (25)</option>
+			<option value="CL-Y200-cl2">MayoCL-Y200-cl2 (25)</option>
+			<option value="CL-Y201-cl1">MayoCL-Y201-cl1 (25)</option>
+			<option value="Lab-B017-CH">MayoLab-B017-CH (40)</option>
+			<option value="Lab-G102-Digmes">MayoLab-G102-Digmes (30)</option>
+			<option value="Lab-R200-DO">MayoLab-R200-DO (40)</option>
+			<option value="Lab-Y017-A3">MayoLab-Y016-A3 (18)</option>
+			<option value="Lab-Y017-A1">MayoLab-Y017-A1 (18)</option>
+			<option value="Lab-Y018-A2">MayoLab-Y018-A2 (18)</option>
+			<option value="MR-P106-Board">MayoMR-P106-Board (30)</option>
+			<option value="NLab-P011-Anat">MayoNLab-P011-Anat (40)</option>
+			<option value="NLab-P102-Taffe">MayoNLab-P102-Taffe (48)</option>
+			<option value="NLab-P104">MayoNLab-P104-student room (8)</option>
+			<option value="NLab-P105-living">MayoNLab-P105-living (28)</option>
+			<option value="NLab-P204-VHen">MayoNLab-P204-VHen (20)</option>
+			<option value="NLab-Y011-N/Gale">MayoNLab-Y011-N/Gale (48)</option>
+			<option value="#SPLUSB0A2FE">Mayo-Pool (1000)</option>
+			<option value="SR-B003-MB">MayoSR-B003-MB (45)</option>
+			<option value="SR-B027">MayoSR-B027 (17)</option>
+			<option value="SR-B030 (sr09)">MayoSR-B030 (sr09) (40)</option>
+			<option value="SR-B120-(sr12)">MayoSR-B120-(sr12) (30)</option>
+			<option value="SR-B121 (sr10)">MayoSR-B121 (sr10) (60)</option>
+			<option value="SR-B122- Lang">MayoSR-B122- Lang (15)</option>
+			<option value="SR-G104-(sr8)">MayoSR-G104-(sr8) (60)</option>
+			<option value="SR-P002-Clear">MayoSR-P002-Clear (120)</option>
+			<option value="SR-P004-Horan">MayoSR-P004-Horan (32)</option>
+			<option value="SR-P005-Healy">MayoSR-P005-Healy (29)</option>
+			<option value="SR-P009-McManus">MayoSR-P009-McManus (30)</option>
+			<option value="SR-P110-Pinel">MayoSR-P110-Pinel (48)</option>
+			<option value="SR-P114-OCar">MayoSR-P114-OCar (60)</option>
+			<option value="SR-P201-Erris">MayoSR-P201-Erris (20)</option>
+			<option value="SR-R104-Davitt">MayoSR-R104-Davitt (80)</option>
+			<option value="SR-Y002-(sr1)">MayoSR-Y002-(sr1) (35)</option>
+			<option value="SR-Y007-(sr14)">MayoSR-Y007-(sr14) (18)</option>
+			<option value="SR-Y104-(sr16)">MayoSR-Y104-(sr16) (30)</option>
+			<option value="SR-Y106-(sr15)">MayoSR-Y106-(sr15) (18)</option>
+			<option value="SR-Y108-Browne">MayoSR-Y108-Browne (80)</option>
+			<option value="#SPLUSC533B6">MayoSt Marys Hall (25)</option>
+			<option value="#SPLUSE79FAD">NUIG (20)</option>
+			<option value="NUIG">NUIG (20)</option>
+
+		</select>
+                </td>
+                </tr>
+                </tbody></table>    
+               
+               
+	</div>
+            
+            
+            
+            
+            
+            
+            
+            <div id="pWeeks" style="width:100%;">
+		
+            <table class="DepartmentTable">
+                <tbody><tr>
+                <td class="DepartmentLabel">
+                <span id="lWeeks" class="DepartmentLabel">Select Week(s):</span>
+                </td>
+                <td>
+                <select size="5" name="lbWeeks" multiple="multiple" id="lbWeeks" class="DepartmentFilter">
+			<option selected="selected" value="t">This Week</option>
+			<option value="n">Next Week</option>
+			<option value="p">Last Week</option>
+			<option value="22;23;24;25;26;27;28;29;30;31;32;33;36">Spring/Summer - January 2017 to June 2017</option>
+			<option value="4;5;6;7;8;9;10;11;12;13;14;15;16;22;23;24;25;26;27;28;29;30;31;32;33;36">Year Long - September 2016 to June 2017</option>
+			<option value=" 1">wk  1 w/c 22 Aug 2016</option>
+			<option value=" 2">wk  2 w/c 29 Aug 2016</option>
+			<option value=" 3">wk  3 w/c 05 Sep 2016</option>
+			<option value=" 4">wk  4 w/c 12 Sep 2016</option>
+			<option value=" 5">wk  5 w/c 19 Sep 2016</option>
+			<option value=" 6">wk  6 w/c 26 Sep 2016</option>
+			<option value=" 7">wk  7 w/c 03 Oct 2016</option>
+			<option value=" 8">wk  8 w/c 10 Oct 2016</option>
+			<option value=" 9">wk  9 w/c 17 Oct 2016</option>
+			<option value=" 10">wk  10 w/c 24 Oct 2016</option>
+			<option value=" 11">wk  11 w/c 31 Oct 2016</option>
+			<option value=" 12">wk  12 w/c 07 Nov 2016</option>
+			<option value=" 13">wk  13 w/c 14 Nov 2016</option>
+			<option value=" 14">wk  14 w/c 21 Nov 2016</option>
+			<option value=" 15">wk  15 w/c 28 Nov 2016</option>
+			<option value=" 16">wk  16 w/c 05 Dec 2016</option>
+			<option value=" 17">wk  17 w/c 12 Dec 2016</option>
+			<option value=" 18">wk  18 w/c 19 Dec 2016</option>
+			<option value=" 19">wk  19 w/c 26 Dec 2016</option>
+			<option value=" 20">wk  20 w/c 02 Jan 2017</option>
+			<option value=" 21">wk  21 w/c 09 Jan 2017</option>
+			<option value=" 22">wk  22 w/c 16 Jan 2017</option>
+			<option value=" 23">wk  23 w/c 23 Jan 2017</option>
+			<option value=" 24">wk  24 w/c 30 Jan 2017</option>
+			<option value=" 25">wk  25 w/c 06 Feb 2017</option>
+			<option value=" 26">wk  26 w/c 13 Feb 2017</option>
+			<option value=" 27">wk  27 w/c 20 Feb 2017</option>
+			<option value=" 28">wk  28 w/c 27 Feb 2017</option>
+			<option value=" 29">wk  29 w/c 06 Mar 2017</option>
+			<option value=" 30">wk  30 w/c 13 Mar 2017</option>
+			<option value=" 31">wk  31 w/c 20 Mar 2017</option>
+			<option value=" 32">wk  32 w/c 27 Mar 2017</option>
+			<option value=" 33">wk  33 w/c 03 Apr 2017</option>
+			<option value=" 34">wk  34 w/c 10 Apr 2017</option>
+			<option value=" 35">wk  35 w/c 17 Apr 2017</option>
+			<option value=" 36">wk  36 w/c 24 Apr 2017</option>
+			<option value=" 37">wk  37 w/c 01 May 2017</option>
+			<option value=" 38">wk  38 w/c 08 May 2017</option>
+			<option value=" 39">wk  39 w/c 15 May 2017</option>
+			<option value=" 40">wk  40 w/c 22 May 2017</option>
+			<option value=" 41">wk  41 w/c 29 May 2017</option>
+			<option value=" 42">wk  42 w/c 05 Jun 2017</option>
+			<option value=" 43">wk  43 w/c 12 Jun 2017</option>
+			<option value=" 44">wk  44 w/c 19 Jun 2017</option>
+			<option value=" 45">wk  45 w/c 26 Jun 2017</option>
+			<option value=" 46">wk  46 w/c 03 Jul 2017</option>
+			<option value=" 47">wk  47 w/c 10 Jul 2017</option>
+			<option value=" 48">wk  48 w/c 17 Jul 2017</option>
+			<option value=" 49">wk  49 w/c 24 Jul 2017</option>
+			<option value=" 50">wk  50 w/c 31 Jul 2017</option>
+			<option value=" 51">wk  51 w/c 07 Aug 2017</option>
+			<option value=" 52">wk  52 w/c 14 Aug 2017</option>
+
+		</select>
+                </td>
+                </tr>
+                </tbody></table>    
+                
+                
+            
+	</div>
+            
+            
+            <div id="pDays" style="width:100%;">
+		
+            <table class="DepartmentTable">
+                <tbody><tr>
+                <td class="DepartmentLabel">
+                <span id="lDays" class="DepartmentLabel">Select Daysx(s):</span>
+                </td>
+                <td>
+                <select size="6" name="lbDays" id="lbDays" class="DepartmentFilter">
+			<option value="1-6">All Days</option>
+			<option selected="selected" value="1-5">Weekdays</option>
+			<option value="1">Monday</option>
+			<option value="2">Tuesday</option>
+			<option value="3">Wednesday</option>
+			<option value="4">Thursday</option>
+			<option value="5">Friday</option>
+			<option value="6">Saturday</option>
+
+		</select>
+                </td>
+                </tr>
+                </tbody></table>    
+                
+                
+            
+	</div>
+            <div id="pPeriod" style="width:100%;">
+		
+            <table class="DepartmentTable">
+                <tbody><tr>
+                <td class="DepartmentLabel">
+                <span id="lPeriod" class="DepartmentLabel">Select Time Range:</span>
+                </td>
+                <td>
+                <select name="dlPeriod" onchange="javascript:setTimeout('__doPostBack(\'dlPeriod\',\'\')', 0)" id="dlPeriod" class="DepartmentFilter">
+			<option selected="selected" value="1-20">Working Day (08:00 - 18:00)</option>
+			<option value="1-28">All Day (08:00 - 22:00)</option>
+			<option value="1-8">Morning (08:00-12:00)</option>
+			<option value="9-20">Afternoon (12:00-18:00)</option>
+			<option value="21-28">Evening (18:00 - 22:00)</option>
+
+		</select>
+                </td>
+                </tr>
+                </tbody></table>    
+                
+                
+            
+	</div>
+            <div id="pType" style="width:100%;">
+		
+            <table class="DepartmentTable">
+                <tbody><tr>
+                <td class="DepartmentLabel">
+                <span id="lType" class="DepartmentLabel">Select Type Of Report:</span>
+                </td>
+                <td>
+                <select name="dlType" id="dlType" class="DepartmentFilter">
+			<option selected="selected" value="individual;swsurl;SWSCUST Object Individual">Grid Timetable</option>
+			<option value="TextSpreadsheet;swsurl;SWSCUST Object TextSpreadsheet">List Timetable</option>
+
+		</select>
+                </td>
+                </tr>
+                </tbody></table>    
+                
+                
+            
+	</div>
+            
+            
+            <div id="pButton" style="width:100%;">
+		
+                <input type="submit" name="bGetTimetable" value="View Timetable" onclick="return viewtimetableclick();" id="bGetTimetable" class="ViewTimetableButton">
+                <br>
+                <br>
+                
+	</div>
+            
+        
+</div>
+        
+     
+     <!-- INCLUDE the following if you want the Links to go DOWN the page -->   
+     
+         </td></tr></tbody></table> 
+        
+     <!-- END INCLUDE the following if you want the Links to go DOWN the page -->   
+     
+    </div>
+    </form>
+        </td>
+    <td>&nbsp;</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<hr class="HorizontalRule">
+<!--
+<table border='0' cellspacing='0' width='100%'>
+<tr>
+<td align='left' width='50%'><b>Copyright Scientia 2012</b></td>
+<td align='right' width='50%'><a href="http://www.scientia.com">www.scientia.com</a></td>
+</tr>
+</table>-->
+</td>
+<td></td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+</body></html>Ytext/htmlUUTF-8£‘_WebResourceResponse_Hhttp://timetable.gmit.ie/sws1617/(S(pliyptuqoml4cybvy5mapyb0))/update.jsO±bplist00‘noX$versionX$objectsY$archiverT$top Ü†Ø!#)*0123OPQRSTUVWXYZ[\]^_`abcdeiU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄ Ä ÄÄÄ”$%'(WNS.base[NS.relativeÄ ÄÄ_Hhttp://timetable.gmit.ie/sws1617/(S(pliyptuqoml4cybvy5mapyb0))/update.js“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aæú8D≠ »”456BNWNS.keysZNS.objects´789:;<=>?@AÄ	Ä
+ÄÄÄÄÄÄÄÄÄ´CDFGHIJKLMÄÄÄÄÄÄÄÄÄÄÄÄVServer_X-UA-Compatible\Content-Type]Last-Modified\X-Powered-ByTEtag]Accept-RangesTDate_Content-Encoding^Content-LengthTVary_Microsoft-IIS/7.5_IE=EmulateIE7;chrome=EmulateIE7_application/x-javascript_Fri, 25 Apr 2008 08:42:28 GMTWASP.NET_"032d54ab0a6c81:0"Ubytes_Mon, 10 Apr 2017 19:27:40 GMTTgzipS345_Accept-Encoding“+,fg_NSMutableDictionary£fh/\NSDictionary“+,jk_NSHTTPURLResponse£lm/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—pq_WebResourceResponseÄ    # - 2 7 [ a |  É Ü â å ê ì ö ù † £ ¶ © ´ ≠ Ø ± ≥ ¥ ∂ ∏ ∫ º æ ¿ ¬ … — › ﬂ · „.3>GMPYbdfmuÄåéêíîñòöúû†¢Æ∞≤¥∂∏∫ºæ¿¬ƒ∆ÕﬂÏ˙2AFZ|ó∑ø‘⁄˙ˇ04AFZ^rÄíï´             r              ≠OLÔªø// JScript File
+
+
+
+function loaddefaultpage() {
+//alert("Hello");
+}
+
+function viewtimetableclick() {
+ var form;
+		if (window.navigator.appName.toLowerCase().indexOf("netscape") > -1) {
+			form = document.forms["form1"];
+		}
+		else {
+			form = document.form1;
+		}   
+  //alert("Hello");		 
+  return true;
+}
+
+
+_application/x-javascript‘_Ihttp://timetable.gmit.ie/sws1617/(S(pliyptuqoml4cybvy5mapyb0))/styles.cssO°bplist00‘noX$versionX$objectsY$archiverT$top Ü†Ø!#)*0123OPQRSTUVWXYZ[\]^_`abcdeiU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄ Ä ÄÄÄ”$%'(WNS.base[NS.relativeÄ ÄÄ_Ihttp://timetable.gmit.ie/sws1617/(S(pliyptuqoml4cybvy5mapyb0))/styles.css“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aæú8D“¢ »”456BNWNS.keysZNS.objects´789:;<=>?@AÄ	Ä
+ÄÄÄÄÄÄÄÄÄ´CDFGHIJKLMÄÄÄÄÄÄÄÄÄÄÄÄVServer_X-UA-Compatible\Content-Type]Last-Modified\X-Powered-ByTEtag]Accept-RangesTDate_Content-Encoding^Content-LengthTVary_Microsoft-IIS/7.5_IE=EmulateIE7;chrome=EmulateIE7Xtext/css_Thu, 30 Aug 2012 12:16:48 GMTWASP.NET_"078f853a986cd1:0"Ubytes_Mon, 10 Apr 2017 19:27:40 GMTTgzipT1449_Accept-Encoding“+,fg_NSMutableDictionary£fh/\NSDictionary“+,jk_NSHTTPURLResponse£lm/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—pq_WebResourceResponseÄ    # - 2 7 [ a |  É Ü â å ê ì ö ù † £ ¶ © ´ ≠ Ø ± ≥ ¥ ∂ ∏ ∫ º æ ¿ ¬ … — › ﬂ · „/4?HNQZcegnvÅçèëìïóôõùü°£Ø±≥µ∑πªΩø¡√≈«Œ‡Ì˚ 3BG[}Ü¶Æ√…ÈÓÛ
+ $16JNbpÇÖõ             r              ùOPÔªøbody 
+{
+	 font-family: verdana;
+	 font-size: small;
+	 background-color: #999999;
+	 horizontal-align: center;
+	 /*margin-top: 10px;*/
+	 margin:0px;
+}
+
+.pagetable {
+	/*border-top: solid 1px black;
+	border-left: solid 1px black;
+	border-bottom: solid 1px black;
+	border-right: solid 1px black;*/
+	margin: auto;
+}
+
+.content {
+	background-color: #FFF;
+	
+}
+
+TD  {
+	font-size : 8pt;
+	color : #000000;
+}
+
+
+
+
+A {	
+	font-size : 8pt;
+	font-weight: normal;
+	text-decoration: none;
+	color : #ff0000;
+}
+
+A:link {
+	color : #ff0000;
+}
+
+A:active {
+	color : #ff0000;
+}
+
+A:visited {
+	color : #0000ff;
+}
+
+A:hover {
+	color : #ff0000;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+
+.FilterPanel 
+{
+	vertical-align: top;
+}
+
+.ErrorTable 
+{
+	width: 400px;
+	background-color: gray;
+	color: white;
+	border-color: black;
+	border-style: solid;
+	border-width: thin;
+	 margin-left: auto;
+	 margin-right: auto;
+	 margin-top: 50px;
+	 margin-bottom: 50px;
+	 text-align: center;
+   
+	 
+}
+
+.ErrorTable.td
+{
+	color: white;
+}
+
+.ErrorTitle 
+{
+ font-weight: bold;
+   text-decoration: underline;	
+   color: white;
+}
+.ErrorText, .ErrorTable a 
+{
+	color: white;
+}
+
+.TitlePanel
+{ 
+	width : 100%;
+	vertical-align: top;
+}
+
+.FilterTitle
+{
+ font-weight: bold;
+ font-size: 1.2em;
+ padding-bottom: 10px;
+ color: black;
+}
+
+.InfoBox
+{
+	/*font-style: italic;*/
+	width: 300px;
+}
+
+.modfilterlabel 
+{
+	margin-left: 5px;
+}
+
+
+.DepartmentTable
+{
+ width: 100%;	
+ margin-top: 10px;
+}
+.InfoTable
+{
+ width: 100%	
+}
+.InfoCell
+{
+ width: 500px;	
+}
+
+.DepartmentLabel
+{
+width: 250px;
+border-style: none;
+vertical-align: top;
+border-width: 0;
+margin-left: 5px;
+}
+
+.DepartmentFilter
+{
+	width: 99%;
+}
+
+.ViewTimetableButton
+{
+width: 150px;
+}
+
+.LoginBox
+{
+  border-Color: Black;
+  border-Style: solid;
+  border-Width: thin;
+  margin: 0 auto;
+}
+
+.LoginInputBox 
+{
+width: 200px;
+}
+
+.LoginButton
+{
+width: 150px;
+}
+
+.ErrorMessage
+{
+    font-size: 10;
+	color: Red;
+}
+
+.TitleText
+{  font-weight: bold;
+}
+
+.LoginText
+{  font-weight:  normal;
+}
+
+.InstructionText 
+{
+   font-style: italic;
+   font-size: 10;
+}
+
+.ObjectInputErrorLabel
+{
+	color: Red;
+}
+
+
+
+.LinkPanel {
+
+	vertical-align: top;
+	font-size: 0.85em;
+	overflow: hidden;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.LinkPanel a {
+	text-decoration: none;
+	color: black;
+}
+
+
+.LinkPanel a:hover, .LinkButtonSelected a:hover {
+	background-color: #6389ba;
+	color: white !important;
+	text-decoration: none;
+}
+
+
+.FilterPanel {
+	text-align: left;
+	width: 100% !important;
+	vertical-align: top;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+#pLinkPanel {
+	border-bottom: 1px solid #cccccc;
+}
+
+.LinkButton, .LinkButtonSelected {	
+
+	display: block;
+	background: url("img/bullet.gif") no-repeat scroll 3px 9px transparent;
+	padding: 0.4em 0 0.4em 1.6em;
+	border-top: 1px solid #CCCCCC;
+	background-color: ghostwhite;
+	border-left: 1px solid #CCCCCC;
+	border-right: 1px solid #CCCCCC;
+	width: 131px !important; 
+	text-align: left;
+
+}
+
+.LinkButtonSelected {
+	color: black !important;
+	font-weight: bold;
+}
+
+
+
+
+
+
+#LinkBtn_information {
+
+    background-image: none;
+	background-color: #1f69b1;
+	color: white !important;
+	font-weight: bold;
+    padding: 5px;
+    background-position: right top;
+    background-repeat: no-repeat;
+    border: medium none;
+    width: 140px !important;
+	text-align: left;
+	
+}
+
+#bGetTimetable {
+	margin-left: 170px;
+	margin-top:20px;
+}
+
+.modfiltercontrol, .WildcardTextBox {
+	width: 80%;
+}Xtext/css‘_Mhttp://timetable.gmit.ie/sws1617/(S(pliyptuqoml4cybvy5mapyb0))/img/header.jpgOXbplist00‘fgX$versionX$objectsY$archiverT$top Ü†Ø#)*0123KLMNOPQRSTUVWXYZ[\]aU$null›	
+ !"R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1Ä	ÄÄÄ ÄÄÄÄ”$%'(WNS.base[NS.relativeÄ ÄÄ_Mhttp://timetable.gmit.ie/sws1617/(S(pliyptuqoml4cybvy5mapyb0))/img/header.jpg“+,-.Z$classnameX$classesUNSURL¢-/XNSObject#Aæú8DÂÊ »”456@JWNS.keysZNS.objects©789:;<=>?Ä	Ä
+ÄÄÄÄÄÄÄ©ABDEFGHIÄÄÄÄÄÄÄÄÄÄVServer_X-UA-Compatible\Content-Type]Last-Modified\X-Powered-By]Accept-RangesTDate^Content-LengthTEtag_Microsoft-IIS/7.5_IE=EmulateIE7;chrome=EmulateIE7Zimage/jpeg_Fri, 28 Oct 2011 14:17:18 GMTWASP.NETUbytes_Mon, 10 Apr 2017 19:27:40 GMTT8766_"0ab914c7c95cc1:0"“+,^__NSMutableDictionary£^`/\NSDictionary“+,bc_NSHTTPURLResponse£de/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—hi_WebResourceResponseÄ    # - 2 7 W ] x {  Ç Ö à å è ñ ô ú ü ¢ • ß © ´ ≠ Ø ∞ ≤ ¥ ∂ ∏ ∫ º æ ≈ Õ Ÿ € › ﬂ/4?HNQZcegnvÅãçèëìïóôõùß©´≠Ø±≥µ∑πª¬‘·Ô¸
+#7YdÑåí≤∑Ã—ÁÎ¯˝)7ILb             j              dO">ˇÿˇ‡ JFIF  x x  ˇ€ C 
+
+
+ˇ€ C		ˇ¿  f," ˇƒ           	
+ˇƒ µ   } !1AQa"q2Åë°#B±¡R—$3brÇ	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄·‚„‰ÂÊÁËÈÍÒÚÛÙıˆ˜¯˘˙ˇƒ        	
+ˇƒ µ  w !1AQaq"2ÅBë°±¡	#3Rbr—
+$4·%Ò&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzÇÉÑÖÜáàâäíìîïñóòôö¢£§•¶ß®©™≤≥¥µ∂∑∏π∫¬√ƒ≈∆«»… “”‘’÷◊ÿŸ⁄‚„‰ÂÊÁËÈÍÚÛÙıˆ˜¯˘˙ˇ⁄   ? ˝Rzö?œZZ(?œZLo ùE p˛#'√ÕC√‰†±‘oÕ≠¡a )CÜF≈wÅ’Ä#êFr|≠˚iÍõØ|3ß	XÂ∏`}»Q¸çzÏŸÒ	ºuÓÓ§/©iÑZNÃr\Ú7‚ø Ω:ò[a!àèùˇ CäÔ^Tﬂ»ıÃ
+9•¢º√¥Ni9ßQHÌ˙˛t`ˇ ìN¢Ä˝i0i‘Py˜£oπßQ@€Ï(€Ï)‘QaXn⁄6”®¢√∂ç¥Í(∞€I¥”Ë¢¿7ìiß—Eê⁄iqN¢ã ä1N¢ã ä6˝i‘Qdv˝i0iÙQdqF†ßQEÑG∞˙~ GL~5%3“çÜ>ä(¶E4∫ÄI8π§´t9Ô@~÷∫øˆè≈ô-Å‹∂Vë¬=âèÛÔŸ3≈ß√ˇ ˇ ≥]àµ’°0OEÀ!˙˝·¯◊Òs[ˇ Ñã‚_â/¡‹è{"Ø˚™BèÂM¯Q$ë|K√@J5J◊Ôˇ <Wﬂ{ıe/Âˇ Ç|ø¥YÁ]ˇ SÙväoòπ<ûÇópıØÅ>†Z(¢Ä
+)7Z7
+ Z(¢Ä
+(¢Ä
+)	©≈ É–ÊÄäM√÷ç√8Õ -ô£p†¢ì4¥ QE QE QE QE QE QE S=)Ù√IÄ˙M√4÷ïQK3P2I‡_1xèˆ√˚≠ØYi˙<w0A∫;—!˘úqπ◊∆y‚∫®a™‚[TïÏcV¥(§ÊŒ;ˆà¯√‚Ÿ¸W©xl≥h∫u¥õD6ÌÜ∏S˜]õæGaQ¸&¯◊‚∆ËÚﬂÅ§h˙}ÕƒÄ«ô2T3úEyçÖáà>,xødf]OVΩm“M#d ÓÃz*ÅÎ^›Ø|"”æ|Ò•m4˜˙µ‘Ÿ=È˘!(Ú¶Ùâz„åd˙◊÷‘ßá£NyEs;tÔ‘a*µ'*©ª#ÊÈ%íydï…yã1=…<◊e¶_ÏΩv˜^ gE≤í˙-ﬂÛ‘abˇ «ÿR¸'¸E◊ÓÙˆ.´Ñ˜”¯]WÂ¸ÿ◊´˛Ã?≠<[·oI®Ÿ≈yo<±⁄˘3ÓUmπbASï9#ü“ª1XätÈÕ>ñø£1°JSú|Ô¯[‚é>1Òøg¨À´…kyjÇ8ÖõlåzíΩ{Êæ∂˝ü>%k_¸%%Ê±b!ñﬁ_%o#Kúu!{_>|\˝û&§WZ¶ÉÁ‹Y¬ªÓ,.˘†OÔ+ıà;˜èS„Õ˜¬ô•¥πéMGBò˚ |‰«Ñ˙ÒöÛÒic0◊¬≈]|ü°”J§ıø|˜>Ú‹=h‹+Àæ	|iÉ‚Êü~ÊŸl/Ì$˘≠ñM˘å˝÷Œ*«ÌÒf/Ç|E„	#YÊ±É˝	Nƒ$k«bƒfæF•9QõÑ’ö>èãîaGW'eÛ/¸J¯Ÿ‡üÑê¬ﬁ(◊Ì¥ÈÁ«ëgÃóì¿ŸÌ¯∆∏ı˝´¸∫›^Èæ)“ÙÊæ€{·˚§ÖG©;2π‰_∞ó¬ô|S¢ÀÒ≥∆Ú{∆æ#öW¥ªª˛…l®ÚÅ·	*z :ö˚¬:ú‡©#®>’öª=åU&
+´√¥Á(Ë⁄vWÍí≥€ªﬂ±Ö‡Øà˛¯è•ùG¬˙ÌéªdVñ∆a BFp¿rßÿ‡◊‚ﬂ⁄õ·óÄ¸G6Ö‚/&ã©§¢*ˆ÷hƒÑ„îbõXr9ÅV<J«·∑ƒˇ xãD[{#ƒq[…6õ{DwHX4ä ‰‚º˛
+/⁄Ô‚≠óÇ4M4"ÎÒ2Ω∑“˘0+òáòé‘ùÏkÉ¬‡±8Ë–î•Ï‰∑—5•›Ù≥∂›;üfG<s"∫8t`e‰zv·«¯WÃOﬂçÔÒw‡Öæù©MÊxÉ√,4Àù«/$AGì!˜+Úüt5Ìﬂ>!Z¸,¯yÆxûÈ|Â∞ÄºPΩ<ßJ;ñr Ù¸œ?Ç´Ü≈K’‰ùΩ{}˚úÔâøiˇ ÜﬁÒ}œÖo¸KÒUÙÀX%∏ú3ç®ß'';÷Ôè>1¯_·ûçe´xéˆ}7Mª]Àt÷s:F0d*ág¯±_˛Ãû‘º1ˇ  ’m¸Avu~}&k˚˘d‰πö8‰uOeﬁP{
+˚◊‚Ù	?¬ü$±¨àtkÃ´åÉ˚óˇ ?Ö%©Íc8l"ç∑%(≈∑t∑Ì¶ﬁ∑πœxˆô¯sÒ;]M'¬æ!˛›∫nZZN—!∆p“l⁄ºzëXöœÌÅª√,◊<9¨ÎØßj⁄=¿∑∏ÅÏÊ|°ÅÜ9k»?‡ñê¢˛œ∫ú™à$}r`\X„∆OÁè≠}5‡œÖz/Åı/j¥óﬁ ‘üSΩ∏∏!›§`£h8· QÖÌBªW'á¡`qï∞ÚRj-Rm˜zZ÷Ècœˆﬁ¯,≤¨M„8÷f∆ÿö ‡;za|ºü¿UmOˆ‚¯=ßŸº…‚Yn§U áO∏#1 (‹Äu uØ ¯„Ø¸£·bÖ0AëÿÒ7?ÀÚØ¥~"|3—˛'xFÛ√öƒ'Ï7Eû´"≤HÆ
+ûpr¢ílﬂÖÀ™ÑßµR*OﬁZj◊ÚÎ∑ë’E'òäÿ€∏g§¶„⁄ùT|∏QE QE QE QE QE QE SM:ôÈKa37ƒZG¸$ˆõˆôlæ’Cˆà<ådWÁ'ç<?ÖºW™i›≠¸vW∏	∞9^˜Ø¥øhã˙á¬]'KóM¥ÇÊ‚˙Gèt˘¬m\ÙÒ]ã7àº[n◊X/|¶oCÊH3¸ÎÎ2ju!	T€‰xôÑ°)(≠œÆ?gèÖ—xw¬µÃ _j1≠›Û˜Ú€ò†œ¶>f¸´±¯˚°∂≥Éƒ6–Æ+q:®ÛÕÉp>Ä◊e†B∞EtTms È—@Aˇ †÷Ö›§w∂“€ Å·ï
+:ûÑÇ+¿û"RÆ´7™w=8—Q•Ï◊c‰ˇ Ÿj“¯3∆ﬁ,πR(O¢°sœ˝Û^ø˚3høŸ	4πôvÀ$∑èÔπé?@+√ıÕ@¸&áè˛]ÜéÊÍÊ9t∆*vœå™@=2Æ+ÍœÈ+¢xSF∞U⁄-≠"è‘(ıÕz8˘∂•>ìw^âõ90±≥K˘W‚ŸkV“ø¥≠ å$ÀÃr°ı∏Ëk·/è~ è¡>1Ûl„˙n¢ÃPØ>SÜƒëè`›=´Ô˙˘ãˆº“„>µπ*7¡©p›¿í"H¸◊?çFUZTÎ®te„i©RrÍékˆBf©u‚;Ø€ﬁ≈oß[k=øﬁíb√8#∞öﬁˇ ÇèËWöœÏª¨Ωöó7∂◊s®ˇ ûaO–nØ,¯!Ò≤Ñ”ﬁ¿4·®⁄ﬂºeóÕ(»TcèÆJ˚á^–l<]·˚›+S∂[Ω7PÅ†∏∑ê`É¯3xTU˘ß≥ÿÏ»Òp¬UßZ*Ó6ægç~√ﬁ$≤ÒÏª‡GµëI¥¥6R™üª$r2ê}œÒØN¯É¨¯óA–ûÛ√ØàÔ£À=ù’ˇ ÿÚÄÚ∂∆Áz˘+·∑Äæ!~√˛-’Ï¨¥-G‚¬-R¥!—£ÛØ¥◊Èìw6W∂Á;A‡◊π^~’ûæ“ÁM2j∫£∆BÈ6~æk¢ƒ}‹4AA˜'ı‚≠è©«`Â<d±h˚JswV◊}ZïµMm©…~ÕµØà?i-kQä«·Ùz.ë•»!øøπ÷ºnC©à<u»ı÷¸Mëe˝•>@6íêÍ“êzÅ‰(˛µÂO_Ö6¯W¢¯‚„≈ﬁ∏–†÷/RˆÃ\KNÎÜ ò–í§du≈O„ã:Œ≠˚Mx#ƒ6ﬂ¸w'Ñt;Àiı¯GnA2Œ #*™Ì„<O©€[Ef5°Çäˆqåí≥∫ªÉÍ€÷ÏÚÀ¯?·äøm¯ocg¯}„ÚC¬@“?Ã=ºπH#˝óÙüå›~2˛–?É£wÜºÂk⁄–∆R{Êˆ+s˛‡›1ÓVÌØã˛˜Ï˚-˛ìet⁄ˆî£W“·íéÂÜﬂû,Ä¡ô?ÑÄr£å◊G˚6x*Á‡«¿ãmKƒã®Í~&‘˚c[ïmﬁÊÚká‰†ª@®‘[†Ò™U¥Òçˇ ¥$Èµ’æíˇ ¿[^∂Ï|ˇ ·Ÿ€˛
+ß´®
+<˝2@Ÿ<ìˆD?˚-}ïÒhè¯U~1ˇ ∞5Á˛âz¯gÌ˛)∑˝∫€‚§_¸pﬁhæ»Ûˇ `\yƒ,À≥∆ÓÿŒ;W÷ü˛$¢|‘Â∞ﬂâı{≠sMπ∑≥”Ï¥KÜ∏—≤è56Ê.ø«∂úzã5£9W¡∏´˚êOmΩ”Ìc≈‡ñüÚn˜ˇ ˆ∏ˇ —qWŸuÒO¸∂Ms·ØÄÓ|‚ø¯£@’'‘eªÜÊ˜Gù-]
+ Ê]∏R6üΩå◊Ÿ˜	oíêÃ#R≈P$@94-è7>WÃÎ…l›”ÓèÇ~9ú¡KæH œÂ-}˘∏c9‚ø;˛,›xüƒø∂óÉ~#È¸os·}…ä‚„˚Âd`7ÓeFPxﬁzéq_}¯wƒ¯óE∂‘≠‡ªµäu‹±_⁄Ω¥ ?⁄ç¿e¸@§µπ”ú¡™O*i?'wßë≠E&h»˛ïGÀãE&hÕ -Rä Z)3Œ)h ¢ì"ñÄ
+(¢Ä
+):“–LÙß”&&y∑∆èÑ|_”¥ÎW‘N{9Lõ÷0˘pG?Ö|=™ÿO‡èœi!->ïzTí9bèêï}}Ò‰¸N”5K=W¡w.˙DV‡\YBäÔÊb[i Ç£˚µÛÜ£‚øxˇ Rñ_Ÿ\hzÎÒ.≠¶ß Õ–y∞7O™‡◊◊er©Zæhv[Øë·c\Ôk>˝œ∂º#¨[Í∂fx^9¬]°™»ª≥˘‰WG∏WœµΩ3KM&€V±Ò≠êg≤∫≥∏ …	?4aïÅ˘î„•vø¸3‚Øhˆ∑˛Ò÷ëyüÙ6o)'◊åÜïx0Í5π¨ªø◊±ÍB´t˘íªÏ\¯≠ÉO¯õõ4§[ÍZ|È,78ŒP0,á‘˙◊†Æ ¿‡Ä+„—†˛–_+Ì:∑˚ˇ iL~u’Y¸8¯øáy®Î>=ìJÚ!i|è4 N’œÃF Æπ·Ñc*Ò≤€Æ˛ÜØÔ9*o]œ¶≤+ÂO⁄Á][´7Màí{π.('‰EØÊIØˇ Öﬂ„ﬂ˙µ/˚˙?¬£ç9rxñı»ËX´¶HıØSï’√’UNﬁø‰q◊∆¬¨hÎ>|äP]ﬂ›ﬂÀ¶⁄ŸÃà°a»qìå‚æ‘óY≤≤’lÙóó◊1I,1Ì?2¶7„á_Z¯”·GÌ+Ø¯c\1ÎÛOÆÈ∑;Pƒ≈CBŸ˚À¿ﬂ5ÙÊ∫C¸cë≈¶_˜Îyπ≥ØÌWµ€ßÍz9d)N-Gtõ$⁄6mæ#¯nˇ ƒØ†[j∞œ´°dh1√(À.Ïm‹Qú”S‚WÜ§“Æµ’#6v∑_bûP≠ÚMê6„ÍG=+…º;·è¯B˙-* ¿ù>≈ÔÁûTxÃZâêÖπ˘’ÚpsÿVá¬Ë÷Ù£ßE|oÜ†Ç	É<rfTm«Ô`uÈÔY¨-Ìœ€™ÔØ¶öëÌ™/≥ﬂÚ¸O{‘æ!x{GõPé˜Sé⁄K	!ä‡J¨64øÍ˚süQ”Ω%Áƒèi‚‡‹Ípƒê^¶ù#26√ BgpG=s^W‚ˇ Üß≈Oi⁄ùÊóq°Ÿ›⁄M°jÛ´$@˝ôâSœ.O¸πÕK‡«ãu_xFGˆ¥éÔT‘nn‰Ò#_ó´ :Ù˜©é‘yßg◊m?´~(%V¢n—¸?ØÍÁ∫√Ò√≥j+`öîm|˜çaˆpåŒQπÅ»ÁwLw≠/¯ãMûò˙é´rñv( ≠3ÇBñ;GA”$s^g·já‚l~(Ω“c≥πõ√—#ŒŒG}˜_#◊oÓ*O¯#∆>"¯©ÈZ•›ßà'∏∫∂h‚≥∑˚6"Yì9cúä≈—•œ©i•ˇ [zs‘Âoó^á°ˇ ¬g£RÛNõÀ;_∂\F>\?ﬂ'≈dØ≈_	µî€0%¥ˆí^«3Uí$;]Å«8=∫˚Wë›¸◊|'u‚ò|=≈¯’4òÏRˆ‚p]ôÁ¡…˚©"¸÷[√V:˛ëov4œ≈<√&#k7¡ï@nvÁ™÷ÎÜ—˚Nﬂó˘ô∫ïêˆ(æ'xV„[∑—óXÄjW*≠≥ÜÓîå#ùß⁄¥µ_i-˘≥æºX.E¨óª
+í|î˚Ì¿Ì˘◊åÍø<I?ä.Ùà¥»€L∫Òz˙ÎbU˝ÃJbŸ˜∑qÄ:b∫üâ^÷5œ5ÌÖüü¸#ó∂B@‡~˙O∫º˙÷NçhÆmÓøØëju,›∂:∆¯£·tµkñ÷ -öjL6<ñm™›;û1◊⁄®ﬂ¸hvóoe=Œ≠ÂGxª†&ﬁ\æ1˜súˇ 	Á⁄º√ø5ø√≠¡•\köU∆ÉºVãt©*IΩY„Vœå’÷C·Í>¯r5x>—®ÈöÃwLÏ¶D∂Çó=`ÆqZÀáOI]_∫Ì2ZØxÎÈÊw˙ß≈Ø
+Ë–\Õy™c∂ïaùº©FÏ°Äl)«S‚¯´·y≠dπ]Lc≥˚sóâ‘¨;∂Ô Æqû+œ5üá⁄Ì÷âÒV¨KM¨^«5Äﬁ?z°TgØÁW‚óÇ<Mw™œ&ó§6•´·ı—Y“uO≤…Ênﬁ¿ı_•DhPìKõÒ]ì˝_‹S´UkoÍÏÙÑ¯Ω·I5‘—óTŒ¢‰ÑC&NqÇ‹cëŒqW<-Ò√˛4∫∏∑—Ôç‹∂‡ô1® Y@<˙Â≠¸™Z¸H”/|çˆ˛:sŒmÛƒävÅ◊ê5ô√öÁÖ,ß”µ{V”b±‚Í7¥…êê"E˘óÉŒk9“¢©πEÍíÍºÀS©ŒìZÏº5s‚i|=ØÎñVµŒ‡2 0X™G•V“~*xg\≤‘.ÏusmßÆ˘‰H$¬éG˜yËzfº≥B¯o‚kOÈ⁄L⁄bEßi⁄ÌŒ≤uØ5qqÄÌå/ﬁ›ñ¡œ•vﬂº©x7¬1«™\^˝™M˚¥˘‰VäﬂÁb6” É…4Í—°N—ïﬁùºˇ Ø.¢ÖJ≤vj€ó‡¯„‡´ç6}B=h5§$RI‰H v»
+>^OÅ”Ω\º¯∑·=>√Mªπ’„Ü=K?eWç√»¡;6Ó ‰^K}◊ƒ—¸$µ“„”ßmFµÛCm2§¢1òbqú÷∑"“|M£x≥BÒLÓÆLm2{[Î®Õ›ªyõÑåˇ u≥ﬂ§®P_ªı]6˚˚ê™’Íªtg•ÀÒ@ÜIı√%Úi¨6±≈√ÄV>ùH#⁄íÀ‚?áu	‡Ü€RéYg∫í 5Ulô£t<qåu<’„˙ß¬è]x≤ÁWE∫7äÌØ»L¢∑Pª¶#Æ‡A®Ë¸A¶¯„O’û)bµπ‘µ.„2!ﬁaòs›[∑4÷Ài≠øl÷≠Ì {5á≈o	Í≥ÍQZkV◊i—º∑7®ß√èò:Æjﬁ•Ò√˙GÜ†◊Ø5(†“Æòß`q&ÓWh$üLWâh_¸Vˆˆ÷7Z*Y.á¢ﬂi©p≥)˛–í\Ï*E«'wz–èDÒ]◊Ö|Ì·iíÛ¬W±±ñ‚3ˆÂÚ 1åÉÖ ‡ÄhñäzOÒ^ûûó‘jµKk}óıÊz•Ô≈/i˛¥÷Ê÷m∆õv€ ôw7òﬂ›
+lé„w®Á¯≥·Kh$ñ]bç-“Ô%[Êâ€j∞„üõåGq^Fü¸Y†Xh∫ıæõˆçB)µM∑ëñÜÎÓIoî≤w≠õÔáÁà[·çˆΩaˆØßNN≠9(0üyså p©t(/∑¶ΩWKˇ ó‚
+≠Wˆ{~ü◊»˜*ißRds^f«cT◊„ÔÇﬁ¯ãmSOTæ∆˙€˜s)˙éøçwîU¬sß.h;1J1í¥ëÒóåˇ dÔxbgªÂ‚Íˆ»IòÆ}3Ç„c¯´Ò7·¸∆ „V‘ÏYäo«˝˜_~‡„ﬂÎY˙∑áÙÌz’≠µ+{ËXrì∆~µÏ”Õe%ÀàÇí¸O:x$µ•&èä!˝´˛ «”f¯˛&¥\öÁ<]Ò€∆û6∞í«R÷YÀƒê["ƒÆ=q_TxìˆT>∫Õ%Ω¥˙D«Ωúø(ˇ Ä∂kÕı_ÿû‡Iù7ƒ—≤vÍ‹É˘©5È—≈Â◊OïE˙u(bˆÊ∫ı>e»éµÔ◊±èã—ø—ı}Aˇ M%ô?îf£Oÿœ∆°ó:¶Ñ£æŸÊ˛±W¶≥+ˇ óà„˙≠o‰gÖi„7ˆ‰è5yZ˚˜\møº$‹q¶_wˇ ÆU‰>˝ãÖΩÃsÎ∫˛åCaﬁ˘˚Áü“æÖª•≠ÁàÙ˝iÃøk≤Ç[h‘?»RLg#˛+ÊÛ\M,KÇ§Ôo¯Ωñ¬Xw7QZÈØ¡£ÕÏæ4j/≠x{Mû &≠k»Àªhs;#(?ÓÆFjÓó„œÍi·∑ië6°©OgyC&¯6n;:˝‡±Í+†É·á⁄l°nÙÒ∑fìîÚ‰gÛsV4ØÜ⁄~ó5º¬k´â‚‘$‘¸Ÿ•…yù
+ˆ∆÷"∏eSˆc˝kˇ  •Ω_ı°»⁄¸IÒŸµªHÙÙµ}*Ó˝·1πr—;(≥å*	~"j#T{„^jY>;˘gi˚Ω3øå˙Wio«J∂∂é7#±üOΩˇ ñr±g?\Ù™«·éu	.ºÎ‹=óÿ¸ü?˜`º£&1˜ˆq∫ÖS≠◊‡ï_S/I¯è™\xæ;ãkOÏªáÇ›Z=¬eôÌºÏ˙Ì«5•‚øÎ/ãl≠m˛ƒ˙l÷77.í#y•¢Pp8¡‹;v´ñt≠?ƒã≠+‹…:$kKòëí?,8_Ôm„5ß´¯JœZ‘°Ω∏Û<ÿ≠¶µPØÅ≤P~<VNTyì∂ñÌ‘µµ´Íy˝Ø≈}Ni:§Èk}ˆù:Úˆ_&àçUë cûßÙ=G∫Ø≈g√ﬂátmN+)Ô5H‚&x’¥¡vÄI«…ü∆∫x~iÉO≥≤∫ûÓ˛KiÏ„72ÂåR®VR@ ‡”W·Nó(”öÚ{›B{+…ûÊmŒ<π7ÆN:É«“¥S√ﬂXÈØO∏éZΩŒ[|G÷ÔÙ€—ltˆ‘%÷üI≥Gä@ñ˚]∆Èy˘ŒókK√ˇ n5k;ãπÌ°∑Ü=DÆ‚1!iUó˝ﬂ›å}kJoÖñÈ7ñmøHÊº7»ì ˆì-òé>^X˙‘s¸$“•àA≈ıµßÿNíﬁ∞íDÖà›Ôóni9aﬂK™ﬂsä∑¯Øy•ÈzÛ€F.§—$∏¬VÚñss@ß'öﬂ–<sØk:›ÜäV∆+Îi.•>«Ú‰HdT"!üî∂Ï‰˙V¥?¥{I≠"äx≠d∑ñŸbYp±$í	œBA-á¬˚1Ù©ÌÓÔ“Ú≈ﬁF∫Û≥%—v‹‚Sèò™ïL;M%ﬂß‹(¬™≥l·`¯À≠k^‘o4Â”£∫±˚0q<r›$ÕA8 åäÌ<#„ãùw∆~$–Ó#Ñ.ñ Tö<É+˝·¡Ï T∞¸&—mÙ˘Ï–‹˘3$(¿ÀíDRôWúx’Ω·Œï·˝zÁX≥IR˛ËÃn$gœùÊ8s∏w¡ß<;RQ^üá¸°©´≥îã≥AÒTÏ∂$vNÚâyÀ¿∂˛f}7˘Oµt>ÒÃû(¯yàÆ‡XßÚ§íha9PP∑˘Rj	ÙmSRºøóÌ"ÍÁŒÈ.0%âcp=∞†˝Ekxk¡ZgÑÙõç3Oáfü4éˇ gcî]¿£€è÷¢§®8%ÆüJä™•´”SŒÓ~.jZOÉ∂.[NπºíÊÿ˝ä  ÷∞ <¬$$¸Ã#‰pMoA„˝BoE§µΩøŸ€Tû«;º¥∑Ysı…†|ÛXIer◊ó÷¨Âñ+â∑«ñQTt·A„=*˚|*”≈Õ≠ÃWó][›≠‚Õ‹ñÚñ"®*º˝jÂ,5¥]˙}ƒ(’”^∆dµl<?pmÌÉÍ◊∂≤ª
+∞˘€H˙˘C?ZÂ¥üè:ùﬁùq}•ÆôµÕå,°ã*øò‡H ¸µﬂZ|-”≠åAÆØféôÆ`äI≤±4°√ÅÌÛör|+—”À¡π˘>…èﬁÁ?gR±ÁèF9ı°O¥Â˛Ø˛CÂ™ıπœxK‚N°‚ŸZ]Igij˙DWÚ∆"rÓŒú>p™1ﬂß¯ùÒJÿÈ˜zEúzÏ7h-€yâπGñÙ∑§¸2”¥]A.-¶ªÚÖíÿIk$Å¢ñ5√ı=ÍÕ˜√≠Ì é;Qg1œ«kà‘âScí Îéï<Ù=¢ï¥Ï>ZºñæßyÒ~˛ÕF÷+kbˆ∫:†b«w¡)˛Ó5n_âê∏÷¶iÒ⁄Ÿ√p∂ˆR+}¢wÖùÚ6Çÿ€å„ö’ì‡œáﬁ‚yˆ\â‚˚<ìâ~sî±Öœ¶?^jküÑ∫E÷≠s|“ﬁ/⁄!ñ7∑I@à4ëà‰êp≈@ÊØü•ëµà¸„Ÿº[·}cWX‚≈¥“§;(`®»<ıÕrá‚Æº|§jVÎß‹ﬁ‹Z\jsìë∆∞¬ö%ùÁ8xÔ^ë£¯:ÀC”ÔÏ≠º√ÎºíÔlú≤Ö8=∫Vœ¡˝.ÛA”¥´ãÕFX¨Tƒì¿ë· Öà° T)–Rm≠/ß•ãj≠ñ∫ÿÔ©Äg4˙júf∏“:ä(™ ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¢ä( ¶z—EKÿgˇŸZimage/jpeg            1   <   K   b   t   ä   ®   ˆ   ˜  ÷B  ÷L  ÷R  ÷V  ÷_  ÷u  ÷¿  €u  ‹≈  ‹‡  ‹È  ›5  ·⁄  .  7  @  ê  ÙÏ .                          9
