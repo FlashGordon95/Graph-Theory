@@ -18,6 +18,17 @@ Any submission that does not have a full and incremental git history with inform
 
 ## Project Information 
 
+### Outline 
+This project will be a representation of a timetabling system for the GMIT Software development course and some of the Digital Media course also.
+The idea of the project is to create a timetabling layout in a Graph Database that can possibly be scaled to include other courses in the college.
+
+
+My project has 3 aims :
+
++ Fully represent a timetable system for the Software course.
++ Extend this system to include some of the Digital media course.
++ Attempt to conceive a design that both makes sense and can be scaled to other courses.
+
 ### Accuiring Data  
 Acquiring some for the data for the database such as the rooms in GMIT can be quite a long task if manually typed. I aim to build a webscrape in python that will scrape the page and gather the rooms.
 
@@ -45,4 +56,5 @@ Here are a few links to get you started.
 |---------------|----------|:------------------------------------------------------------------------:|
 | What is Neo4j | Internal | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/What-is-Neo4j) |
 | Installation  | Interal  | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/Installation)  |
-| Creating Nodes  | Interal  | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/Creating-Nodes)  |
+|Creating Nodes  | Interal  | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/Creating-Nodes)  |
+| Relationships  | Interal  | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/Relationships)  |
