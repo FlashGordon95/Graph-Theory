@@ -17,17 +17,32 @@ GitHub must be used to manage the development of the software. Your GitHub repos
 Any submission that does not have a full and incremental git history with informative commit messages over the course of the project work will be accorded a proportionate mark. It is expected that your repository will have at least tens of commits, with each commit relating to a reasonably small unit of work. In the last week of term, or at any other time, you may be asked by the lecturer to explain the contents of your git repository. While it is encouraged that students will engage in peer learning, all software that is contained in your submission must have been written by you yourself. You can show this by having a long incremental commit history and by being able to explain your code.
 
 ## Project Information 
+
 ### Accuiring Data  
 Acquiring some for the data for the database such as the rooms in GMIT can be quite a long task if manually typed. I aim to build a webscrape in python that will scrape the page and gather the rooms.
 
-#### Nodes and databse structure
+The webscraping I built acomplishes the task through the use of the lxml library for python.
+To do the scrape I downloaded a local copy of the timetable webpage and used lxml to find the list of rooms by the xpath. Once I had this list and stripped all HTML content from it, I began to parse it to extract info into its own columns. 
+What I was left with was less than 40 lines and gives an output of a CSV file which I could then load into NEO4j. To see how please visit this [wiki page](https://github.com/FlashGordon95/Graph-Theory/wiki/Acquiring-Data)
+
+#### Nodes and database structure
 The database will have a structure. similar to the following:
 
-| Name     | Type |  Labels (If applicable) | Properties (if applicable) |
-|----------		|------|-------------------------|----------------------------|
-| Room     		| Node |                         |                            |
-| Lecturer 		| Node |                         |                            |
-| Module   		| Node |                         |                            |
-| Group/Class   	| Node |                         |                            |
-| Course   		| Node |                         |                            |
-| Time   			| Node |                         |                            |
+| Name     | Type |   Properties (if applicable) |
+|----------		|------|----------------------------|
+| Room     		| Node | roomName; capacity; campus |
+| Lecturer 		| Node | lecturer;                           |
+| Module   		| Node | module;	course/courses;                           |
+| Year   			| Node |     course;           |
+| Course   		| Node |  course                       |
+
+
+#### Wiki User Guide
+This repo and its contents is explained a good bit in the Wiki guide.
+Here are a few links to get you started.  
+  
+| Name          | Type     |                           Labels (If applicable)                         |
+|---------------|----------|:------------------------------------------------------------------------:|
+| What is Neo4j | Internal | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/What-is-Neo4j) |
+| Installation  | Interal  | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/Installation)  |
+| Creating Nodes  | Interal  | [link](https://github.com/FlashGordon95/Graph-Theory/wiki/Creating-Nodes)  |
